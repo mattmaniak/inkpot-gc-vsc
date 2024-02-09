@@ -1,10 +1,10 @@
 {
 	"name": "Inkpot GC VSC",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1b1c34", // DONE
+		"editor.foreground": "#5cd089", // DONE
+		"activityBarBadge.background": "#7e7aba", // DONE
+		"sideBarTitle.foreground": "#ffffff" // DONE
 	},
 	"tokenColors": [
 		{
