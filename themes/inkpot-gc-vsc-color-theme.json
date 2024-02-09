@@ -14,7 +14,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#00f804" // DONE
 			}
 		},
@@ -90,11 +89,12 @@
 			}
 		},
 		{
-			"name": "Function, Special Method",
+			"name": "Function, Function Argument, Special Method",
 			"scope": [
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
+				"variable.parameter",
 				"support.function",
 				"keyword.other.special-method"
 			],
@@ -122,14 +122,13 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"name": "Number, Constant, Tag Attribute, Embedded",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
@@ -165,7 +164,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff93c3"
 			}
 		},
 		{
