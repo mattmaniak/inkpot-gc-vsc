@@ -1,16 +1,18 @@
-# inkpot-gc-vsc README
+# Inkpot GC VSC
 
-## Working with Markdown
+## Description
+Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code.
+This is only a theme, not full config. Based on screenshots from his stream.
+Some colors were taken directly from inkpot_gc.vim, others from YouTube
+screenshots, some from my initial interpretation called
+[Inkpot GC GTK](https://github.com/mattmaniak/inkpot_gc_gtk). Some may be
+a little vary in comparison to GVim/Sublime original due the optimization for
+the VS Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## The original one:
+- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Check:
+- http://gynvael.coldwind.pl/,
+- https://www.youtube.com/user/GynvaelEN,
+- https://www.youtube.com/user/GynvaelColdwind.
