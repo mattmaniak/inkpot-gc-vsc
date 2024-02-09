@@ -1,0 +1,21 @@
+{
+  "name": "inkpot-gc-vsc",
+  "displayName": "Inkpot GC VSC",
+  "description": "Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Inkpot GC VSC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Inkpot GC VSC-color-theme.json"
+      }
+    ]
+  }
+}
