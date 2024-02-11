@@ -37,6 +37,13 @@
 		"editorMarkerNavigationWarning.background": "#dcb071",
 		"editorMarkerNavigationInfo.background": "#d0d1f7",
 
+		"merge.currentHeaderBackground": "#ffffcd",
+		"merge.currentContentBackground": "#ffffcd",
+		"merge.incomingHeaderBackground": "#3d8a86",
+		"merge.incomingContentBackground": "#3d8a86",
+		"merge.commonHeaderBackground": "#463a75",
+		"merge.commonContentBackground": "#463a75",
+
 		"editorSuggestWidget.background": "#1b1c34",
 		"editorSuggestWidget.border": "#7e7aba",
 		"editorSuggestWidget.highlightForeground": "#dcb071",
@@ -45,6 +52,21 @@
 		"editorHoverWidget.background": "#1b1c34",
 		"editorHoverWidget.foreground": "#5cd089",
 		"editorHoverWidget.border": "#7e7aba",
+
+		"peekView.border": "#7e7aba",
+		"peekViewEditor.background": "#1b1c34",
+		"peekViewEditorGutter.background": "#1b1c34",
+		"peekViewEditor.matchHighlightBackground": "#463a75",
+		"peekViewEditor.matchHighlightBorder": "#463a75",
+		"peekViewResult.background": "#463a75",
+		"peekViewResult.fileForeground": "#7e7aba",
+		"peekViewResult.lineForeground": "#5cd089",
+		"peekViewResult.matchHighlightBackground": "#463a75",
+		"peekViewResult.selectionBackground": "#463a75",
+		"peekViewResult.selectionForeground": "#7e7aba",
+		"peekViewTitle.background": "#463a75",
+		"peekViewTitleLabel.foreground": "#5cd089",
+		"peekViewTitleDescription.foreground": "#5cd089"
 	},
 	"tokenColors": [
 		{
