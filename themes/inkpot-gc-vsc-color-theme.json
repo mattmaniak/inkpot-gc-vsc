@@ -4,7 +4,47 @@
 		"editor.background": "#1b1c34", // DONE
 		"editor.foreground": "#5cd089", // DONE
 		"activityBarBadge.background": "#7e7aba", // DONE
-		"sideBarTitle.foreground": "#ffffff" // DONE
+		"sideBarTitle.foreground": "#d0d1f7", // DONE
+
+		"editorLineNumber.foreground": "#7e7aba",
+		"editorLineNumber.activeForeground": "#d0d1f7",
+		"editorCursor.foreground": "#00f804",
+		"editor.selectionBackground": "#463a75",
+		"editor.inactiveSelectionBackground": "#463a75",
+		"editorWhitespace.foreground": "#7e7aba",
+		"editor.selectionHighlightBackground": "#dcb071",
+		"editorBracketMatch.border": "#dcb071",
+		"editor.findMatchBorder": "#dcb071",
+		"editor.findMatchHighlightBackground": "#dcb071",
+		"editor.lineHighlightBorder": "#7e7aba",
+		"editorRuler.foreground": "#7e7aba",
+		"editor.foldBackground": "#463a75",
+		"editorError.foreground": "#6e2e2e",
+		"editorWarning.foreground": "#dcb071",
+		"editorInfo.foreground": "#d0d1f7",
+		"editorGutter.addedBackground": "#ffffcd",
+		"editorGutter.deletedBackground": "#6e2e2e",
+		"editorGutter.modifiedBackground": "#3d8a86",
+		"editorGutter.foldingControlForeground": "#7e7aba",
+		"editorGroup.border": "#7e7aba",
+
+		"diffEditor.insertedTextBackground": "#ffffcd",
+		"diffEditor.removedTextBackground": "#6e2e2e",
+		"diffEditor.border": "#7e7aba",
+
+		"editorMarkerNavigation.background": "#463a75",
+		"editorMarkerNavigationError.background": "#6e2e2e",
+		"editorMarkerNavigationWarning.background": "#dcb071",
+		"editorMarkerNavigationInfo.background": "#d0d1f7",
+
+		"editorSuggestWidget.background": "#1b1c34",
+		"editorSuggestWidget.border": "#7e7aba",
+		"editorSuggestWidget.highlightForeground": "#dcb071",
+		"editorSuggestWidget.selectedBackground": "#463a75",
+
+		"editorHoverWidget.background": "#1b1c34",
+		"editorHoverWidget.foreground": "#5cd089",
+		"editorHoverWidget.border": "#7e7aba",
 	},
 	"tokenColors": [
 		{
