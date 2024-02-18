@@ -1,16 +1,21 @@
 {
 	"name": "Inkpot GC VSC",
 	"colors": {
+		"editor.background": "#1b1c34", // DONE
+		"editor.foreground": "#5cd089", // DONE
+		// "activityBarBadge.background": "#7e7aba", // DONE DUPLICATE
+		"sideBarTitle.foreground": "#d0d1f7", // DONE
+
 		"foreground": "#5cd089",
 		"focusBorder": "#7e7aba",
 		"progressBar.background": "#7e7aba",
 		"selection.background": "#1b1c34",
 		"scrollbar.shadow": "#7e7aba",
 
-		"editor.background": "#1b1c34", // DONE
-		"editor.foreground": "#5cd089", // DONE
-		"activityBarBadge.background": "#7e7aba", // DONE
-		"sideBarTitle.foreground": "#d0d1f7", // DONE
+		"activityBar.background": "#463a75",
+		"activityBar.foreground": "#5cd089",
+		"activityBarBadge.background": "#1b1c34",
+		"activityBarBadge.foreground": "#7e7aba",
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
