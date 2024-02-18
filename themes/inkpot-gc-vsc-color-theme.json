@@ -1,6 +1,12 @@
 {
 	"name": "Inkpot GC VSC",
 	"colors": {
+		"foreground": "#5cd089",
+		"focusBorder": "#7e7aba",
+		"progressBar.background": "#7e7aba",
+		"selection.background": "#1b1c34",
+		"scrollbar.shadow": "#7e7aba",
+
 		"editor.background": "#1b1c34", // DONE
 		"editor.foreground": "#5cd089", // DONE
 		"activityBarBadge.background": "#7e7aba", // DONE
