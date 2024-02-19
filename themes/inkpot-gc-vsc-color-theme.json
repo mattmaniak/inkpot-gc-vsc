@@ -12,10 +12,14 @@
 		"selection.background": "#1b1c34",
 		"scrollbar.shadow": "#7e7aba",
 
-		"activityBar.background": "#463a75",
+		"activityBar.background": "#1b1c34",
 		"activityBar.foreground": "#5cd089",
 		"activityBarBadge.background": "#1b1c34",
 		"activityBarBadge.foreground": "#7e7aba",
+		"activityBar.border": "#7e7aba",
+
+		"sideBar.background": "#1b1c34",
+		"sideBar.border": "#7e7aba",
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
