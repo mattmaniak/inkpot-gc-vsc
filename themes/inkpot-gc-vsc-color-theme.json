@@ -13,9 +13,9 @@
 		"scrollbar.shadow": "#463a75",
 
 		"activityBar.background": "#1b1c34",
-		"activityBar.foreground": "#7e7aba",
-		"activityBarBadge.background": "#1b1c34",
-		"activityBarBadge.foreground": "#5cd089",
+		"activityBar.foreground": "#5cd089",
+		"activityBarBadge.background": "#463a75",
+		"activityBarBadge.foreground": "#00f804",
 		"activityBar.border": "#463a75",
 		
 		"sideBar.background": "#1b1c34",
