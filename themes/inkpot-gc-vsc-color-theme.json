@@ -38,6 +38,20 @@
 		"listFilterWidget.outline": "#463a75",
 		"listFilterWidget.noMatchesOutline": "#6e2e2e",
 
+		"statusBar.foreground": "#5cd089",
+		"statusBar.background": "#1b1c34",
+		"statusBarItem.hoverBackground": "#463a75",
+		"statusBar.border": "#463a75",
+		"statusBar.debuggingForeground": "#dcb071",
+		"statusBarItem.remoteBackground": "#463a75",
+		"statusBarItem.remoteForeground": "#00f804",
+
+		"titleBar.activeBackground": "#463a75",
+		"titleBar.activeForeground": "#00f804",
+		"titleBar.inactiveBackground": "#1b1c34",
+		"titleBar.inactiveForeground": "#5cd089",
+		"titleBar.border": "#463a75",
+
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
 		"editorCursor.foreground": "#00f804",
