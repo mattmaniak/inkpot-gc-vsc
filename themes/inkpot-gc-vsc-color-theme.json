@@ -10,16 +10,19 @@
 		"focusBorder": "#7e7aba",
 		"progressBar.background": "#7e7aba",
 		"selection.background": "#1b1c34",
-		"scrollbar.shadow": "#7e7aba",
+		"scrollbar.shadow": "#463a75",
 
 		"activityBar.background": "#1b1c34",
 		"activityBar.foreground": "#5cd089",
 		"activityBarBadge.background": "#1b1c34",
 		"activityBarBadge.foreground": "#7e7aba",
-		"activityBar.border": "#7e7aba",
+		"activityBar.border": "#463a75",
 
 		"sideBar.background": "#1b1c34",
-		"sideBar.border": "#7e7aba",
+		"sideBar.border": "#463a75",
+		"sideBarSectionHeader.background": "#463a75",
+		"sideBarSectionHeader.foreground": "#5cd089",
+		"sideBarSectionHeader.border": "#463a75",
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
@@ -41,11 +44,11 @@
 		"editorGutter.deletedBackground": "#6e2e2e",
 		"editorGutter.modifiedBackground": "#3d8a86",
 		"editorGutter.foldingControlForeground": "#7e7aba",
-		"editorGroup.border": "#7e7aba",
+		"editorGroup.border": "#463a75",
 
 		"diffEditor.insertedTextBackground": "#ffffcd",
 		"diffEditor.removedTextBackground": "#6e2e2e",
-		"diffEditor.border": "#7e7aba",
+		"diffEditor.border": "#463a75",
 
 		"editorMarkerNavigation.background": "#463a75",
 		"editorMarkerNavigationError.background": "#6e2e2e",
@@ -60,15 +63,15 @@
 		"merge.commonContentBackground": "#463a75",
 
 		"editorSuggestWidget.background": "#1b1c34",
-		"editorSuggestWidget.border": "#7e7aba",
+		"editorSuggestWidget.border": "#463a75",
 		"editorSuggestWidget.highlightForeground": "#dcb071",
 		"editorSuggestWidget.selectedBackground": "#463a75",
 
 		"editorHoverWidget.background": "#1b1c34",
 		"editorHoverWidget.foreground": "#5cd089",
-		"editorHoverWidget.border": "#7e7aba",
+		"editorHoverWidget.border": "#463a75",
 
-		"peekView.border": "#7e7aba",
+		"peekView.border": "#463a75",
 		"peekViewEditor.background": "#1b1c34",
 		"peekViewEditorGutter.background": "#1b1c34",
 		"peekViewEditor.matchHighlightBackground": "#463a75",
