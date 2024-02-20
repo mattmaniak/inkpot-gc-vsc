@@ -4,7 +4,7 @@
 		"editor.background": "#1b1c34", // DONE
 		"editor.foreground": "#5cd089", // DONE
 		// "activityBarBadge.background": "#7e7aba", // DONE DUPLICATE
-		"sideBarTitle.foreground": "#d0d1f7", // DONE
+		// "sideBarTitle.foreground": "#d0d1f7", // DONE DUPLICATE
 
 		"foreground": "#5cd089",
 		"focusBorder": "#7e7aba",
@@ -13,16 +13,30 @@
 		"scrollbar.shadow": "#463a75",
 
 		"activityBar.background": "#1b1c34",
-		"activityBar.foreground": "#5cd089",
+		"activityBar.foreground": "#7e7aba",
 		"activityBarBadge.background": "#1b1c34",
-		"activityBarBadge.foreground": "#7e7aba",
+		"activityBarBadge.foreground": "#5cd089",
 		"activityBar.border": "#463a75",
-
+		
 		"sideBar.background": "#1b1c34",
 		"sideBar.border": "#463a75",
 		"sideBarSectionHeader.background": "#463a75",
 		"sideBarSectionHeader.foreground": "#5cd089",
 		"sideBarSectionHeader.border": "#463a75",
+		"sideBarTitle.foreground": "#5cd089",
+		"list.activeSelectionBackground": "#463a75",
+		"list.activeSelectionForeground": "#dcb071",
+		"list.inactiveSelectionBackground": "#463a75",
+		"list.inactiveSelectionForeground": "#00f804",
+		"list.hoverBackground": "#463a75",
+		"list.hoverForeground": "#5cd089",
+		"list.highlightForeground": "#dcb071",
+		"list.focusBackground": "#463a75",
+		"list.focusForeground": "#5cd089",
+		"list.dropBackground": "#1b1c34",
+		"listFilterWidget.background": "#1b1c34",
+		"listFilterWidget.outline": "#463a75",
+		"listFilterWidget.noMatchesOutline": "#6e2e2e",
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
