@@ -13,7 +13,8 @@
 		"scrollbar.shadow": "#463a75",
 
 		"activityBar.background": "#1b1c34",
-		"activityBar.foreground": "#5cd089",
+		"activityBar.foreground": "#dcb071",
+		"activityBar.inactiveForeground": "#5cd089",
 		"activityBarBadge.background": "#463a75",
 		"activityBarBadge.foreground": "#00f804",
 		"activityBar.border": "#463a75",
@@ -51,6 +52,14 @@
 		"titleBar.inactiveBackground": "#1b1c34",
 		"titleBar.inactiveForeground": "#5cd089",
 		"titleBar.border": "#463a75",
+
+		"button.background": "#463a75",
+		"button.foreground": "#00f804",
+		"button.hoverBackground": "#7e7aba",
+		"textLink.foreground": "#dcb071",
+		"textLink.activeForeground": "#dcb071",
+
+
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
