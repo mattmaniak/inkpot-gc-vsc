@@ -16,7 +16,7 @@
 		"activityBar.foreground": "#dcb071",
 		"activityBar.inactiveForeground": "#5cd089",
 		"activityBarBadge.background": "#463a75",
-		"activityBarBadge.foreground": "#00f804",
+		"activityBarBadge.foreground": "#5cd089",
 		"activityBar.border": "#463a75",
 		
 		"sideBar.background": "#1b1c34",
@@ -47,9 +47,9 @@
 		"statusBarItem.remoteBackground": "#463a75",
 		"statusBarItem.remoteForeground": "#00f804",
 
-		"titleBar.activeBackground": "#463a75",
+		"titleBar.activeBackground": "#1b1c34",
 		"titleBar.activeForeground": "#00f804",
-		"titleBar.inactiveBackground": "#1b1c34",
+		"titleBar.inactiveBackground": "#463a75",
 		"titleBar.inactiveForeground": "#5cd089",
 		"titleBar.border": "#463a75",
 
@@ -58,6 +58,34 @@
 		"button.hoverBackground": "#7e7aba",
 		"textLink.foreground": "#dcb071",
 		"textLink.activeForeground": "#dcb071",
+
+		"input.background": "#1b1c34",
+		"input.foreground": "#00f804",
+		"input.placeholderForeground": "#5cd089",
+		"inputOption.activeForeground": "#dcb071",
+		"inputOption.activeBorder": "#463a75",
+		"inputOption.hoverBackground": "#463a75",
+
+		"panel.border": "#463a75",
+		"panelTitle.activeBorder": "#dcb071",
+		"panelTitle.activeForeground": "#dcb071",
+		"panelTitle.inactiveForeground": "#5cd089",
+		"terminalCursor.background": "#ff0000",
+		"terminalCursor.foreground": "#00f804",
+		"badge.background": "#463a75",
+		"badge.foreground": "#5cd089",
+		"terminal.border": "#463a75",
+		"terminal.foreground": "#5cd089",
+
+		"editorGroupHeader.tabsBackground": "#1b1c34",
+		"editorGroupHeader.tabsBorder": "#463a75",
+		"editorGroupHeader.border": "#463a75",
+		"tab.activeForeground": "#dcb071",
+		"tab.activeBackground": "#463a75",
+		"tab.inactiveForeground": "#5cd089",
+		"tab.inactiveBackground": "#1b1c34",
+		"tab.activeBorderTop": "#dcb071",
+		"tab.hoverBackground": "#463a75",
 
 
 
