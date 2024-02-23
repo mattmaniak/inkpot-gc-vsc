@@ -78,7 +78,6 @@
 		"terminal.foreground": "#5cd089",
 
 		"editorGroupHeader.tabsBackground": "#1b1c34",
-		"editorGroupHeader.tabsBorder": "#463a75",
 		"editorGroupHeader.border": "#463a75",
 		"tab.activeForeground": "#dcb071",
 		"tab.activeBackground": "#463a75",
@@ -86,6 +85,16 @@
 		"tab.inactiveBackground": "#1b1c34",
 		"tab.activeBorderTop": "#dcb071",
 		"tab.hoverBackground": "#463a75",
+		
+		"editorGroupHeader.tabsBorder": "#463a75",
+		"breadcrumb.focusForeground": "#00f804",
+		"breadcrumb.activeSelectionForeground": "#dcb071",
+
+		"scrollbarSlider.background": "#463a75",
+		"scrollbarSlider.activeBackground": "#7e7aba",
+		"scrollbarSlider.hoverBackground": "#7e7aba",
+
+		"widget.border": "#463a75",
 
 
 
