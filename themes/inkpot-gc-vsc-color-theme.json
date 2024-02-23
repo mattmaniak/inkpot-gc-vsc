@@ -95,6 +95,10 @@
 		"scrollbarSlider.hoverBackground": "#7e7aba",
 
 		"widget.border": "#463a75",
+		"editorWidget.background": "#1b1c34",
+		"pickerGroup.border": "#463a75",
+		"pickerGroup.foreground": "#5cd089",
+		"editorWidget.resizeBorder": "#463a75",
 
 
 
