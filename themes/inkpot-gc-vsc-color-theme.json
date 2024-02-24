@@ -1,10 +1,10 @@
 {
 	"name": "Inkpot GC VSC",
 	"colors": {
-		"editor.background": "#1b1c34", // DONE
-		"editor.foreground": "#5cd089", // DONE
-		// "activityBarBadge.background": "#7e7aba", // DONE DUPLICATE
-		// "sideBarTitle.foreground": "#d0d1f7", // DONE DUPLICATE
+		"editor.background": "#1b1c34",
+		"editor.foreground": "#5cd089",
+
+
 
 		"foreground": "#5cd089",
 		"focusBorder": "#7e7aba",
@@ -15,8 +15,8 @@
 		"activityBar.background": "#1b1c34",
 		"activityBar.foreground": "#dcb071",
 		"activityBar.inactiveForeground": "#5cd089",
-		"activityBarBadge.background": "#463a75",
-		"activityBarBadge.foreground": "#5cd089",
+		"activityBarBadge.background": "#dcb071",
+		"activityBarBadge.foreground": "#1b1c34",
 		"activityBar.border": "#463a75",
 		
 		"sideBar.background": "#1b1c34",
@@ -201,7 +201,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#6e2e2e", // Background should be red, foregrund white.
+				"foreground": "#6e2e2e"
 			}
 		},
 		{
@@ -209,16 +209,26 @@
 			"scope": [
 				"keyword",
 				"storage.type",
-				"storage.modifier"
+				"storage.modifier",
+				"entity.name.function.preprocessor",
+				"entity.other.attribute-name"
 			],
 			"settings": {
 				"foreground": "#ff93c3" // DONE
 			}
 		},
 		{
-			"name": "Operator, Misc",
+			"name": "Keyword Control",
 			"scope": [
 				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#d0d1f7" // DONE
+			}
+		},
+		{
+			"name": "Operator, Misc, Tag",
+			"scope": [
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -229,21 +239,14 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
-			],
-			"settings": {
-				"foreground": "#3d8a86" // DONE
-			}
-		},
-		{
-			"name": "Tag",
-			"scope": [
+				"keyword.other.substitution",
+				"keyword.control.directive",
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#3d8a86" // DONE
 			}
 		},
 		{
@@ -387,15 +390,6 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "Attributes",
-			"scope": [
-				"entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#C792EA"
 			}
 		},
 		{
