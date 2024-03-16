@@ -186,22 +186,13 @@
 			}
 		},
 		{
-			"name": "Colors",
-			"scope": [
-				"constant.other.color"
-			],
-			"settings": {
-				"foreground": "#ffffff"
-			}
-		},
-		{
 			"name": "Invalid",
 			"scope": [
 				"invalid",
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#6e2e2e"
+				"foreground": "#6e2e2e" // DONE
 			}
 		},
 		{
@@ -290,6 +281,7 @@
 				"constant.language",
 				"support.constant",
 				"constant.character",
+				"constant.character.escape",
 				"constant.escape",
 				"keyword.other.unit",
 				"keyword.other"
@@ -326,16 +318,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ff8bff"
-			}
-		},
-		{
-			"name": "Entity Types",
-			"scope": [
-				"support.type"
-			],
-			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#ff8bff" // DONE
 			}
 		},
 		{
@@ -349,7 +332,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#ff8bff" // DONE
 			}
 		},
 		{
@@ -394,23 +377,12 @@
 			}
 		},
 		{
-			"name": "HTML Attributes",
-			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
-			}
-		},
-		{
 			"name": "CSS Classes",
 			"scope": [
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#409090" // DONE
 			}
 		},
 		{
@@ -419,7 +391,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#409090" // DONE
 			}
 		},
 		{
@@ -459,15 +431,6 @@
 			}
 		},
 		{
-			"name": "Escape Characters",
-			"scope": [
-				"constant.character.escape"
-			],
-			"settings": {
-				"foreground": "#89DDFF"
-			}
-		},
-		{
 			"name": "URL",
 			"scope": [
 				"*url*",
@@ -475,7 +438,7 @@
 				"*uri*"
 			],
 			"settings": {
-				"fontStyle": "underline"
+				"fontStyle": "underline" // DONE
 			}
 		},
 		{
