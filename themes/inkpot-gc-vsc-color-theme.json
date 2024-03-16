@@ -218,7 +218,7 @@
 			}
 		},
 		{
-			"name": "Operator, Misc, Tag",
+			"name": "CSS Class, CSS ID's, Misc, Operator, Tag",
 			"scope": [
 				"constant.other.color",
 				"punctuation",
@@ -235,7 +235,9 @@
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
-				"keyword.operator"
+				"keyword.operator",
+				"entity.other.attribute-name.class",
+				"source.sass keyword.control"				
 			],
 			"settings": {
 				"foreground": "#409090" // DONE
@@ -258,7 +260,8 @@
 		{
 			"name": "Block Level Variables",
 			"scope": [
-				"meta.block variable.other"
+				"meta.block variable.other",
+				"variable.other.class.js"
 			],
 			"settings": {
 				"foreground": "#5cd089" // DONE
@@ -340,7 +343,6 @@
 			"scope": [
 				"entity.name.module.js",
 				"variable.import.parameter.js",
-				"variable.other.class.js"
 			],
 			"settings": {
 				"foreground": "#FF5370"
@@ -374,24 +376,6 @@
 			],
 			"settings": {
 				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "CSS Classes",
-			"scope": [
-				"entity.other.attribute-name.class"
-			],
-			"settings": {
-				"foreground": "#409090" // DONE
-			}
-		},
-		{
-			"name": "CSS ID's",
-			"scope": [
-				"source.sass keyword.control"
-			],
-			"settings": {
-				"foreground": "#409090" // DONE
 			}
 		},
 		{
