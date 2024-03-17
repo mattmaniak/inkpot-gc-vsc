@@ -166,20 +166,26 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comment",
+			"name": "Comment, Markdown - Fenced Bode Block Variable, Markup - Table",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
+				"markup.table",
+				"markup.raw.block.fenced.markdown",
+				"variable.language.fenced.markdown",
+				"punctuation.section.class.end"
 			],
 			"settings": {
 				"foreground": "#00ff8b" // DONE
 			}
 		},
 		{
-			"name": "Variables",
+			"name": "Variables, Markdown - Plain",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"text.html.markdown",
+				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
 				"foreground": "#5cd089" // DONE
@@ -196,13 +202,15 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Storage",
 			"scope": [
 				"keyword",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.function.preprocessor",
-				"entity.other.attribute-name"
+				"entity.other.attribute-name",
+				"string.other.link.description.title.markdown",
+				"markup.raw.block",
 			],
 			"settings": {
 				"foreground": "#ff8bff" // DONE
@@ -294,15 +302,18 @@
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"name": "String, Symbols, Inherited Class, Markup - Heading, Markdown - Heading",
 			"scope": [
 				"string",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
-				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"markup.heading",
+				"markdown.heading",
+				"markup.heading | markup.heading entity.name",
+				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
 				"foreground": "#cd8b00" // DONE
@@ -528,16 +539,6 @@
 			}
 		},
 		{
-			"name": "Markdown - Plain",
-			"scope": [
-				"text.html.markdown",
-				"punctuation.definition.list_item.markdown"
-			],
-			"settings": {
-				"foreground": "#EEFFFF"
-			}
-		},
-		{
 			"name": "Markdown - Markup Raw Inline",
 			"scope": [
 				"text.html.markdown markup.inline.raw.markdown"
@@ -547,23 +548,13 @@
 			}
 		},
 		{
-			"name": "Markdown - Markup Raw Inline Punctuation",
+			"name": "Markdown - Markup Raw Inline Punctuation, Markdown - Fenced Language",
 			"scope": [
-				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
+				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+				"variable.language.fenced.markdown"
 			],
 			"settings": {
 				"foreground": "#65737E"
-			}
-		},
-		{
-			"name": "Markdown - Heading",
-			"scope": [
-				"markdown.heading",
-				"markup.heading | markup.heading entity.name",
-				"markup.heading.markdown punctuation.definition.heading.markdown"
-			],
-			"settings": {
-				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -573,7 +564,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#409090" // DONE
 			}
 		},
 		{
@@ -584,7 +575,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#409090" // DONE
 			}
 		},
 		{
@@ -599,17 +590,18 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"foreground": "#409090" // DONE
 			}
 		},
 		{
-			"name": "Markup - Underline",
+			"name": "Markdown - Link, Markup - Underline",
 			"scope": [
-				"markup.underline"
+				"markup.underline",
+				"string.other.link.title.markdown"
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#cd8b00" // DONE
 			}
 		},
 		{
@@ -618,7 +610,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#767e65"
 			}
 		},
 		{
@@ -631,39 +623,12 @@
 			}
 		},
 		{
-			"name": "Markdown - Link",
-			"scope": [
-				"string.other.link.title.markdown"
-			],
-			"settings": {
-				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "Markdown - Link Description",
-			"scope": [
-				"string.other.link.description.title.markdown"
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
 			"name": "Markdown - Link Anchor",
 			"scope": [
 				"constant.other.reference.link.markdown"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
-			}
-		},
-		{
-			"name": "Markup - Raw Block",
-			"scope": [
-				"markup.raw.block"
-			],
-			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#b48123"
 			}
 		},
 		{
@@ -685,26 +650,6 @@
 			}
 		},
 		{
-			"name": "Markdown - Fenced Bode Block Variable",
-			"scope": [
-				"markup.raw.block.fenced.markdown",
-				"variable.language.fenced.markdown",
-				"punctuation.section.class.end"
-			],
-			"settings": {
-				"foreground": "#EEFFFF"
-			}
-		},
-		{
-			"name": "Markdown - Fenced Language",
-			"scope": [
-				"variable.language.fenced.markdown"
-			],
-			"settings": {
-				"foreground": "#65737E"
-			}
-		},
-		{
 			"name": "Markdown - Separator",
 			"scope": [
 				"meta.separator"
@@ -712,15 +657,6 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#65737E"
-			}
-		},
-		{
-			"name": "Markup - Table",
-			"scope": [
-				"markup.table"
-			],
-			"settings": {
-				"foreground": "#EEFFFF"
 			}
 		}
 	]
