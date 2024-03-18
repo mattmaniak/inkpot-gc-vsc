@@ -118,9 +118,9 @@
 		"editorError.foreground": "#6e2e2e",
 		"editorWarning.foreground": "#cd8b00",
 		"editorInfo.foreground": "#d0d1f7",
-		"editorGutter.addedBackground": "#ffcd00",
+		"editorGutter.addedBackground": "#409090",
 		"editorGutter.deletedBackground": "#6e2e2e",
-		"editorGutter.modifiedBackground": "#409090",
+		"editorGutter.modifiedBackground": "#ffcd00",
 		"editorGutter.foldingControlForeground": "#7e7eae",
 		"editorGroup.border": "#4b208f",
 
@@ -166,43 +166,49 @@
 	},
 	"tokenColors": [
 		{
-			"name": "Comment, Markdown - Fenced Bode Block Variable, Markup - Table",
+			"name": "Comment, Markdown - Fenced Bode Block Variable, Markup - Table, Markdown - Markup Raw Inline Punctuation, Markdown - Fenced Language, Markdown - Blockquote",
 			"scope": [
 				"comment",
 				"punctuation.definition.comment",
 				"markup.table",
 				"markup.raw.block.fenced.markdown",
 				"variable.language.fenced.markdown",
-				"punctuation.section.class.end"
+				"punctuation.section.class.end",
+				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
+				"variable.language.fenced.markdown",
+				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
 				"foreground": "#00ff8b" // DONE
 			}
 		},
 		{
-			"name": "Variables, Markdown - Plain",
+			"name": "Variables, Markdown - Plain, meta.method.js",
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
 				"text.html.markdown",
-				"punctuation.definition.list_item.markdown"
+				"punctuation.definition.list_item.markdown",
+				"meta.class-method.js entity.name.function.js",
+				"variable.function.constructor"
 			],
 			"settings": {
 				"foreground": "#5cd089" // DONE
 			}
 		},
 		{
-			"name": "Invalid",
+			"name": "Deleted, Invalid",
 			"scope": [
 				"invalid",
-				"invalid.illegal"
+				"invalid.illegal",
+				"markup.deleted"
 			],
 			"settings": {
 				"foreground": "#6e2e2e" // DONE
 			}
 		},
 		{
-			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Storage",
+			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Markdown - Markup Raw Inline, Storage",
 			"scope": [
 				"keyword",
 				"storage.type",
@@ -211,6 +217,7 @@
 				"entity.other.attribute-name",
 				"string.other.link.description.title.markdown",
 				"markup.raw.block",
+				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
 				"foreground": "#ff8bff" // DONE
@@ -226,7 +233,7 @@
 			}
 		},
 		{
-			"name": "CSS Class, CSS ID's, Misc, Operator, Tag",
+			"name": "CSS Class, CSS ID's, Misc, Operator, Tag, Markdown - Link Anchor, Inserted",
 			"scope": [
 				"constant.other.color",
 				"punctuation",
@@ -245,7 +252,9 @@
 				"markup.deleted.git_gutter",
 				"keyword.operator",
 				"entity.other.attribute-name.class",
-				"source.sass keyword.control"				
+				"source.sass keyword.control",
+				"constant.other.reference.link.markdown",
+				"markup.inserted"
 			],
 			"settings": {
 				"foreground": "#409090" // DONE
@@ -286,7 +295,7 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Tag Attribute, Embedded",
+			"name": "Number, Constant, Tag Attribute, Embedded, Escape Characters, Regular Expressions",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
@@ -295,7 +304,8 @@
 				"constant.character.escape",
 				"constant.escape",
 				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other",
+				"string.regexp"
 			],
 			"settings": {
 				"foreground": "#cd8b00" // DONE
@@ -350,13 +360,14 @@
 			}
 		},
 		{
-			"name": "Sub-methods",
+			"name": "ES7 Bind Operator, Sub-methods",
 			"scope": [
 				"entity.name.module.js",
 				"variable.import.parameter.js",
+				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#6e2e2e" // DONE
 			}
 		},
 		{
@@ -366,45 +377,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
-			}
-		},
-		{
-			"name": "entity.name.method.js",
-			"scope": [
-				"entity.name.method.js"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "meta.method.js",
-			"scope": [
-				"meta.class-method.js entity.name.function.js",
-				"variable.function.constructor"
-			],
-			"settings": {
-				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "Inserted",
-			"scope": [
-				"markup.inserted"
-			],
-			"settings": {
-				"foreground": "#C3E88D"
-			}
-		},
-		{
-			"name": "Deleted",
-			"scope": [
-				"markup.deleted"
-			],
-			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#6e2e2e" // DONE
 			}
 		},
 		{
@@ -413,16 +386,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "Regular Expressions",
-			"scope": [
-				"string.regexp"
-			],
-			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ffcd00" // DONE
 			}
 		},
 		{
@@ -437,24 +401,15 @@
 			}
 		},
 		{
-			"name": "Decorators",
+			"name": "Decorators, entity.name.method.js",
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
+				"tag.decorator.js punctuation.definition.tag.js",
+				"entity.name.method.js"
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
-			}
-		},
-		{
-			"name": "ES7 Bind Operator",
-			"scope": [
-				"source.js constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#5cd089" // DONE
 			}
 		},
 		{
@@ -539,25 +494,6 @@
 			}
 		},
 		{
-			"name": "Markdown - Markup Raw Inline",
-			"scope": [
-				"text.html.markdown markup.inline.raw.markdown"
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
-			"name": "Markdown - Markup Raw Inline Punctuation, Markdown - Fenced Language",
-			"scope": [
-				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
-				"variable.language.fenced.markdown"
-			],
-			"settings": {
-				"foreground": "#65737E"
-			}
-		},
-		{
 			"name": "Markup - Italic",
 			"scope": [
 				"markup.italic"
@@ -605,30 +541,12 @@
 			}
 		},
 		{
-			"name": "Markdown - Blockquote",
-			"scope": [
-				"markup.quote punctuation.definition.blockquote.markdown"
-			],
-			"settings": {
-				"foreground": "#767e65"
-			}
-		},
-		{
 			"name": "Markup - Quote",
 			"scope": [
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"name": "Markdown - Link Anchor",
-			"scope": [
-				"constant.other.reference.link.markdown"
-			],
-			"settings": {
-				"foreground": "#b48123"
+				"fontStyle": "italic" // DONE
 			}
 		},
 		{
@@ -656,7 +574,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#65737E"
+				"foreground": "#00ff8b" // DONE
 			}
 		}
 	]
