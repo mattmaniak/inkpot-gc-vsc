@@ -326,12 +326,11 @@
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup - Heading, Markdown - Heading",
+			"name": "String, Symbols, Markup - Heading, Markdown - Heading",
 			"scope": [
 				"string",
 				"constant.other.symbol",
 				"constant.other.key",
-				"entity.other.inherited-class",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"markup.heading",
@@ -344,7 +343,7 @@
 			}
 		},
 		{
-			"name": "Class, Support, Entity Types",
+			"name": "Class, Inherited Class, Support, Entity Types",
 			"scope": [
 				"support.type",
 				"support.class",
@@ -352,7 +351,9 @@
 				"meta.use.php",
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
-				"support.type.sys-types"
+				"support.type.sys-types",
+				"entity.other.inherited-class",
+
 			],
 			"settings": {
 				"foreground": "#ff93c3"
