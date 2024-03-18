@@ -28,7 +28,7 @@
 		"list.activeSelectionBackground": "#463e73",
 		"list.activeSelectionForeground": "#dcb071",
 		"list.inactiveSelectionBackground": "#463e73",
-		"list.inactiveSelectionForeground": "#00f804",
+		"list.inactiveSelectionForeground": "#00ff00",
 		"list.hoverBackground": "#463e73",
 		"list.hoverForeground": "#5cd089",
 		"list.highlightForeground": "#dcb071",
@@ -45,22 +45,22 @@
 		"statusBar.border": "#463e73",
 		"statusBar.debuggingForeground": "#dcb071",
 		"statusBarItem.remoteBackground": "#463e73",
-		"statusBarItem.remoteForeground": "#00f804",
+		"statusBarItem.remoteForeground": "#00ff00",
 
 		"titleBar.activeBackground": "#1b1c34",
-		"titleBar.activeForeground": "#00f804",
+		"titleBar.activeForeground": "#00ff00",
 		"titleBar.inactiveBackground": "#463e73",
 		"titleBar.inactiveForeground": "#5cd089",
 		"titleBar.border": "#463e73",
 
 		"button.background": "#463e73",
-		"button.foreground": "#00f804",
+		"button.foreground": "#00ff00",
 		"button.hoverBackground": "#7e7aba",
 		"textLink.foreground": "#dcb071",
 		"textLink.activeForeground": "#dcb071",
 
 		"input.background": "#1b1c34",
-		"input.foreground": "#00f804",
+		"input.foreground": "#00ff00",
 		"input.placeholderForeground": "#5cd089",
 		"inputOption.activeForeground": "#dcb071",
 		"inputOption.activeBorder": "#463e73",
@@ -71,7 +71,7 @@
 		"panelTitle.activeForeground": "#dcb071",
 		"panelTitle.inactiveForeground": "#5cd089",
 		"terminalCursor.background": "#ff0000",
-		"terminalCursor.foreground": "#00f804",
+		"terminalCursor.foreground": "#00ff00",
 		"badge.background": "#463e73",
 		"badge.foreground": "#5cd089",
 		"terminal.border": "#463e73",
@@ -87,7 +87,7 @@
 		"tab.hoverBackground": "#463e73",
 		
 		"editorGroupHeader.tabsBorder": "#463e73",
-		"breadcrumb.focusForeground": "#00f804",
+		"breadcrumb.focusForeground": "#00ff00",
 		"breadcrumb.activeSelectionForeground": "#dcb071",
 
 		"scrollbarSlider.background": "#463e73",
@@ -104,7 +104,7 @@
 
 		"editorLineNumber.foreground": "#7e7aba",
 		"editorLineNumber.activeForeground": "#d0d1f7",
-		"editorCursor.foreground": "#00f804",
+		"editorCursor.foreground": "#00ff00",
 		"editor.selectionBackground": "#463e73",
 		"editor.inactiveSelectionBackground": "#463e73",
 		"editorWhitespace.foreground": "#7e7aba",
@@ -179,7 +179,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#00f804"
+				"foreground": "#00ff00"
 			}
 		},
 		{
@@ -570,7 +570,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#00f804"
+				"foreground": "#00ff00"
 			}
 		}
 	]
