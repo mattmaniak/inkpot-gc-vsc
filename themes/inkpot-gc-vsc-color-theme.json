@@ -179,7 +179,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#00ff8b" // DONE
+				"foreground": "#00ff8b"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#6e2e2e" // DONE
+				"foreground": "#6e2e2e"
 			}
 		},
 		{
@@ -220,7 +220,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#ff8bff" // DONE
+				"foreground": "#ff8bff"
 			}
 		},
 		{
@@ -229,7 +229,7 @@
 				"keyword.control",
 			],
 			"settings": {
-				"foreground": "#d0d1f7" // DONE
+				"foreground": "#d0d1f7"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -282,7 +282,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -292,7 +292,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ff8bff" // DONE
+				"foreground": "#ff8bff"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ff8bff" // DONE
+				"foreground": "#ff8bff"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#6e2e2e" // DONE
+				"foreground": "#6e2e2e"
 			}
 		},
 		{
@@ -388,7 +388,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#6e2e2e" // DONE
+				"foreground": "#6e2e2e"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#ffcd00" // DONE
+				"foreground": "#ffcd00"
 			}
 		},
 		{
@@ -408,7 +408,7 @@
 				"*uri*"
 			],
 			"settings": {
-				"fontStyle": "underline" // DONE
+				"fontStyle": "underline"
 			}
 		},
 		{
@@ -420,7 +420,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -429,7 +429,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff8bff" // DONE
+				"foreground": "#ff8bff"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#6e2e2e" // DONE
+				"foreground": "#6e2e2e"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#5cd089" // DONE
+				"foreground": "#5cd089"
 			}
 		},
 		{
@@ -483,7 +483,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff8bff" // DONE
+				"foreground": "#ff8bff"
 			}
 		},
 		{
@@ -501,7 +501,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -511,7 +511,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -522,7 +522,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#409090" // DONE
+				"foreground": "#409090"
 			}
 		},
 		{
@@ -548,7 +548,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#cd8b00" // DONE
+				"foreground": "#cd8b00"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic" // DONE
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#4b208f50" // DONE
+				"foreground": "#4b208f50"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#00ff8b" // DONE
+				"foreground": "#00ff8b"
 			}
 		}
 	]
