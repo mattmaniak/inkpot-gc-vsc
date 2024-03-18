@@ -208,32 +208,34 @@
 			}
 		},
 		{
-			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Markdown - Markup Raw Inline, Storage",
+			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Markdown - Markup Raw Inline",
 			"scope": [
 				"keyword",
-				"storage.type",
-				"storage.modifier",
 				"entity.name.function.preprocessor",
 				"entity.other.attribute-name",
 				"string.other.link.description.title.markdown",
 				"markup.raw.block",
-				"text.html.markdown markup.inline.raw.markdown"
+				"text.html.markdown markup.inline.raw.markdown",
 			],
 			"settings": {
 				"foreground": "#ff8bff"
 			}
 		},
 		{
-			"name": "Keyword Control",
+			"name": "Language Methods, Operator, Storage",
 			"scope": [
-				"keyword.control",
+				"keyword.other",
+				"keyword.operator",
+				"storage.modifier",
+				"storage.type",
+				"variable.language"
 			],
 			"settings": {
 				"foreground": "#d0d1f7"
 			}
 		},
 		{
-			"name": "CSS Class, CSS ID's, Misc, Operator, Tag, Markdown - Link Anchor, Inserted",
+			"name": "CSS Class, CSS ID's, Keyword Control, Misc, Tag, Markdown - Link Anchor, Inserted",
 			"scope": [
 				"constant.other.color",
 				"punctuation",
@@ -250,11 +252,13 @@
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
-				"keyword.operator",
 				"entity.other.attribute-name.class",
 				"source.sass keyword.control",
 				"constant.other.reference.link.markdown",
-				"markup.inserted"
+				"markup.inserted",
+				"keyword.preprocessor",
+				"meta.preprocessor",
+				"keyword.control"
 			],
 			"settings": {
 				"foreground": "#409090"
@@ -315,7 +319,6 @@
 				"constant.character.escape",
 				"constant.escape",
 				"keyword.other.unit",
-				"keyword.other",
 				"string.regexp"
 			],
 			"settings": {
@@ -343,7 +346,6 @@
 		{
 			"name": "Class, Support, Entity Types",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.other.namespace.use.php",
@@ -378,16 +380,6 @@
 				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#6e2e2e"
-			}
-		},
-		{
-			"name": "Language methods",
-			"scope": [
-				"variable.language"
-			],
-			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#6e2e2e"
 			}
 		},
