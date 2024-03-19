@@ -1,24 +1,24 @@
 {
 	"name": "Inkpot GC VSC",
 	"colors": {
+		// Gemera;
 		"editor.background": "#1b1b33",
 		"editor.foreground": "#5ed378",
-
-
-
-		"foreground": "#5ed378",
 		"focusBorder": "#8b8bff",
+		"foreground": "#5ed378",
 		"progressBar.background": "#8b8bff",
-		"selection.background": "#1b1b33",
 		"scrollbar.shadow": "#3e3e75",
+		"selection.background": "#1b1b33",
 
+		// Activity Bar
 		"activityBar.background": "#1b1b33",
 		"activityBar.foreground": "#f0ad6d",
 		"activityBar.inactiveForeground": "#5ed378",
 		"activityBarBadge.background": "#8b8bff",
 		"activityBarBadge.foreground": "#1b1b33",
 		"activityBar.border": "#3e3e75",
-		
+
+		// Side Bar
 		"sideBar.background": "#1b1b33",
 		"sideBar.border": "#3e3e75",
 		"sideBarSectionHeader.background": "#3e3e75",
@@ -39,6 +39,7 @@
 		"listFilterWidget.outline": "#3e3e75",
 		"listFilterWidget.noMatchesOutline": "#6e2e2e",
 
+		// Status Bar
 		"statusBar.foreground": "#5ed378",
 		"statusBar.background": "#1b1b33",
 		"statusBarItem.hoverBackground": "#3e3e75",
@@ -47,18 +48,21 @@
 		"statusBarItem.remoteBackground": "#3e3e75",
 		"statusBarItem.remoteForeground": "#00ff00",
 
+		// Title Bar
 		"titleBar.activeBackground": "#1b1b33",
 		"titleBar.activeForeground": "#00ff00",
 		"titleBar.inactiveBackground": "#3e3e75",
 		"titleBar.inactiveForeground": "#5ed378",
 		"titleBar.border": "#3e3e75",
 
+		// Buttons
 		"button.background": "#3e3e75",
 		"button.foreground": "#00ff00",
 		"button.hoverBackground": "#8b8bff",
 		"textLink.foreground": "#f0ad6d",
 		"textLink.activeForeground": "#f0ad6d",
 
+		// Inputs
 		"input.background": "#1b1b33",
 		"input.foreground": "#00ff00",
 		"input.placeholderForeground": "#5ed378",
@@ -66,6 +70,7 @@
 		"inputOption.activeBorder": "#3e3e75",
 		"inputOption.hoverBackground": "#3e3e75",
 
+		// Panel (Terminal)
 		"panel.border": "#3e3e75",
 		"panelTitle.activeBorder": "#f0ad6d",
 		"panelTitle.activeForeground": "#f0ad6d",
@@ -77,6 +82,7 @@
 		"terminal.border": "#3e3e75",
 		"terminal.foreground": "#5ed378",
 
+		// Tabs
 		"editorGroupHeader.tabsBackground": "#1b1b33",
 		"editorGroupHeader.border": "#3e3e75",
 		"tab.activeForeground": "#f0ad6d",
@@ -86,22 +92,24 @@
 		"tab.activeBorderTop": "#f0ad6d",
 		"tab.hoverBackground": "#3e3e75",
 		
+		// Breadcrumbs
 		"editorGroupHeader.tabsBorder": "#3e3e75",
 		"breadcrumb.focusForeground": "#00ff00",
 		"breadcrumb.activeSelectionForeground": "#f0ad6d",
 
+		// Scrollbar
 		"scrollbarSlider.background": "#3e3e75",
 		"scrollbarSlider.activeBackground": "#8b8bff",
 		"scrollbarSlider.hoverBackground": "#8b8bff",
 
+		// Widgets
 		"widget.border": "#3e3e75",
 		"editorWidget.background": "#1b1b33",
 		"pickerGroup.border": "#3e3e75",
 		"pickerGroup.foreground": "#5ed378",
 		"editorWidget.resizeBorder": "#3e3e75",
 
-
-
+		// Editor
 		"editorLineNumber.foreground": "#8b8bff",
 		"editorLineNumber.activeForeground": "#b7b7f7",
 		"editorCursor.foreground": "#00ff00",
@@ -124,15 +132,18 @@
 		"editorGutter.foldingControlForeground": "#8b8bff",
 		"editorGroup.border": "#3e3e75",
 
+		// Diff Editor
 		"diffEditor.insertedTextBackground": "#ffffcd",
 		"diffEditor.removedTextBackground": "#6e2e2e",
 		"diffEditor.border": "#3e3e75",
 
+		// Marker Navigation
 		"editorMarkerNavigation.background": "#3e3e75",
 		"editorMarkerNavigationError.background": "#6e2e2e",
 		"editorMarkerNavigationWarning.background": "#f0ad6d",
 		"editorMarkerNavigationInfo.background": "#b7b7f7",
 
+		// Merge Conflicts
 		"merge.currentHeaderBackground": "#ffffcd",
 		"merge.currentContentBackground": "#ffffcd",
 		"merge.incomingHeaderBackground": "#306b8f",
@@ -140,15 +151,18 @@
 		"merge.commonHeaderBackground": "#3e3e75",
 		"merge.commonContentBackground": "#3e3e75",
 
+		// Suggest Widget
 		"editorSuggestWidget.background": "#1b1b33",
 		"editorSuggestWidget.border": "#3e3e75",
 		"editorSuggestWidget.highlightForeground": "#f0ad6d",
 		"editorSuggestWidget.selectedBackground": "#3e3e75",
 
+		// Hover Widget
 		"editorHoverWidget.background": "#1b1b33",
 		"editorHoverWidget.foreground": "#5ed378",
 		"editorHoverWidget.border": "#3e3e75",
 
+		// Peek View Editor
 		"peekView.border": "#3e3e75",
 		"peekViewEditor.background": "#1b1b33",
 		"peekViewEditorGutter.background": "#1b1b33",
