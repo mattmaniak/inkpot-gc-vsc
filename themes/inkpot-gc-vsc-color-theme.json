@@ -3,7 +3,7 @@
 	"colors": {
 		// Gemera;
 		"editor.background": "#1b1b33", // done
-		"editor.foreground": "#5ed378",
+		"editor.foreground": "#5ed378", // done
 		"focusBorder": "#8b8bcd",
 		"foreground": "#5ed378", // done
 		"progressBar.background": "#8b8bcd",
