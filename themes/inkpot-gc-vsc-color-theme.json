@@ -21,7 +21,7 @@
 		// Side Bar
 		"sideBar.background": "#1b1b33", // done
 		"sideBar.foreground": "#8b8bcd", // done
-		"sideBar.border": "#1b1b33", // done
+		"sideBar.border": "#3e3e75", // done
 		"sideBarSectionHeader.background": "#1b1b33", // done
 		"sideBarSectionHeader.foreground": "#8b8bcd", // done
 		"sideBarTitle.foreground": "#8b8bcd", // done
@@ -41,6 +41,7 @@
 		// Status Bar
 		"statusBar.foreground": "#8b8bcd", // done
 		"statusBar.background": "#1b1b33", // done
+		"statusBar.border": "#3e3e75", // done
 		"statusBarItem.hoverBackground": "#8b8bcd", // done
 		"statusBarItem.hoverForeground": "#3e3e75", // done
 		"statusBar.debuggingForeground": "#eeeeee", // done
@@ -83,24 +84,25 @@
 		"terminal.foreground": "#eeeeee", // done
 
 		// Tabs
-		"editorGroupHeader.tabsBackground": "#1b1b33",
-		"editorGroupHeader.border": "#3e3e75",
-		"tab.activeForeground": "#f0ad6d",
-		"tab.activeBackground": "#3e3e75",
-		"tab.inactiveForeground": "#5ed378",
-		"tab.inactiveBackground": "#1b1b33",
-		"tab.activeBorderTop": "#f0ad6d",
-		"tab.hoverBackground": "#3e3e75",
+		"editorGroupHeader.tabsBackground": "#1b1b33", // done
+		"editorGroupHeader.tabsBorder": "#3e3e75", // done
+		"tab.activeForeground": "#eeeeee", // done
+		"tab.activeBackground": "#3e3e75", // done
+		"tab.inactiveForeground": "#8b8bcd", // done
+		"tab.inactiveBackground": "#1b1b33", // done
+		"tab.activeBorderTop": "#eeeeee", // done
+		"tab.hoverBackground": "#3e3e75", // done
 		
 		// Breadcrumbs
-		"editorGroupHeader.tabsBorder": "#3e3e75",
-		"breadcrumb.focusForeground": "#00ff00",
-		"breadcrumb.activeSelectionForeground": "#f0ad6d",
+		"breadcrumb.foreground": "#8b8bcd", // done
+		"breadcrumb.focusForeground": "#eeeeee", // done
+		"breadcrumb.activeSelectionForeground": "#eeeeee", // done
+		"editorGroupHeader.border": "#3e3e75", // done
 
 		// Scrollbar
-		"scrollbarSlider.background": "#3e3e75",
-		"scrollbarSlider.activeBackground": "#8b8bcd",
-		"scrollbarSlider.hoverBackground": "#8b8bcd",
+		"scrollbarSlider.background": "#8b8bcd", // done
+		"scrollbarSlider.activeBackground": "#eeeeee", // done
+		"scrollbarSlider.hoverBackground": "#eeeeee", // done
 
 		// Widgets
 		"widget.border": "#3e3e75",
