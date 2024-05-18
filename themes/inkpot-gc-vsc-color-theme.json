@@ -14,7 +14,7 @@
 		"activityBar.background": "#3e3e75", // done
 		"activityBar.foreground": "#eeeeee", // done
 		"activityBar.inactiveForeground": "#8b8bcd", // done
-		"activityBarBadge.background": "#1b1b33", // done
+		"activityBarBadge.background": "#eeeeee", // done
 		"activityBarBadge.foreground": "#3e3e75", // done
 		"activityBar.border": "#1b1b33", // done
 
@@ -78,7 +78,7 @@
 		"panelTitle.inactiveForeground": "#8b8bcd", // done
 		"terminalCursor.background": "#404040", // done
 		"terminalCursor.foreground": "#8fff8b", // done
-		"badge.background": "#1b1b33", // done
+		"badge.background": "#eeeeee", // done
 		"badge.foreground": "#3e3e75", // done
 		"terminal.border": "#3e3e75", // done
 		"terminal.foreground": "#eeeeee", // done
@@ -139,7 +139,7 @@
 		"editor.inactiveSelectionBackground": "#3e3e75", // done
 		"editorWhitespace.foreground": "#8b8bcd", // done
 		"editor.selectionHighlightBackground": "#f0ad6d", // done
-		// "editorBracketMatch.border": "#f0ad6d", // ?
+		"editorBracketMatch.border": "#f0ad6d", // done
 		"editor.findMatchBorder": "#f0ad6d", // done
 		"editor.findMatchBackground": "#3e3e75", // done
 		"editor.findMatchHighlightBackground": "#f0ad6d", // done
