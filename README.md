@@ -10,9 +10,12 @@ a little vary in comparison to GVim/Sublime original due the optimization for
 the VS Code.
 
 ## The original one:
-- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim.
+- https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim
 
 ## Check:
-- http://gynvael.coldwind.pl/,
-- https://www.youtube.com/user/GynvaelEN,
-- https://www.youtube.com/user/GynvaelColdwind.
+- http://gynvael.coldwind.pl/
+- https://www.youtube.com/user/GynvaelColdwind
+- https://www.youtube.com/user/GynvaelEN
+
+## This website has helped a lot with development:
+- https://themes.vscode.one
