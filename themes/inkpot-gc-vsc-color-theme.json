@@ -114,6 +114,20 @@
 		"debugToolBar.background": "#1b1b33", // done
 		"debugToolBar.border": "#3e3e75", // done
 
+		// Notifications
+		"notifications.foreground": "#8b8bcd", // done
+		"notifications.border": "#3e3e75", // done
+		"notificationToast.border": "#3e3e75", // done
+		"notificationsErrorIcon.foreground": "#ce4e4e", // done
+		"notificationsWarningIcon.foreground": "#ffcd00", // done
+		"notificationsInfoIcon.foreground": "#8b8bcd", // done
+		"notificationCenterHeader.foreground": "#8b8bcd", // done
+		"notificationCenterHeader.background": "#1b1b33", // done
+		"notificationCenter.border": "#3e3e75", // done
+
+		// Git Decorations
+		// TODO
+
 		// Editor
 		"editorStickyScroll.border": "#8b8bcd", // done
 		"editorStickyScroll.shadow": "#3e3e75", // done
@@ -133,9 +147,9 @@
 		"editorRuler.foreground": "#8b8bcd", // done
 		"editorGroup.border": "#3e3e75", // done
 		"editor.foldBackground": "#3e3e75", // done?
-		"editorError.foreground": "#ce4e4e",
-		"editorWarning.foreground": "#ffcd00",
-		"editorInfo.foreground": "#7e7eae",
+		"editorError.foreground": "#ce4e4e", // done
+		"editorWarning.foreground": "#ffcd00", // done
+		"editorInfo.foreground": "#8b8bcd", // done
 		"editorGutter.background": "#3e3e75",
 		"editorGutter.addedBackground": "#306b8f",
 		"editorGutter.deletedBackground": "#6d3030",
