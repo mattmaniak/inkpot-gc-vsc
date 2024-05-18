@@ -105,39 +105,42 @@
 		"scrollbarSlider.hoverBackground": "#eeeeee", // done
 
 		// Widgets
-		"widget.border": "#3e3e75",
-		"editorWidget.background": "#1b1b33",
-		"pickerGroup.border": "#3e3e75",
-		"pickerGroup.foreground": "#5ed378",
-		"editorWidget.resizeBorder": "#3e3e75",
+		"widget.border": "#3e3e75", // done
+		"widget.shadow": "#3e3e75", // done
+		"editorWidget.background": "#1b1b33", // done
+		"pickerGroup.border": "#3e3e75", // done
+		"pickerGroup.foreground": "#8b8bcd", // done
+		"editorWidget.resizeBorder": "#3e3e75", // done
+		"debugToolBar.background": "#1b1b33", // done
+		"debugToolBar.border": "#3e3e75", // done
 
 		// Editor
-		// "editorStickyScroll.background": "#3e3e75",
 		"editorStickyScroll.border": "#8b8bcd", // done
-		// "editorStickyScroll.shadow": "#3e3e75",
+		"editorStickyScroll.shadow": "#3e3e75", // done
 		"editorLineNumber.foreground": "#8b8bcd", // done
-		"editorLineNumber.activeForeground": "#b7b7f7", // done?
+		"editorLineNumber.activeForeground": "#eeeeee", // done
 		"editorCursor.background": "#2e2e37", // done
 		"editorCursor.foreground": "#8fff8b", // done
-		"editor.selectionBackground": "#3e3e75",
-		"editor.inactiveSelectionBackground": "#3e3e75",
-		"editorWhitespace.foreground": "#8b8bcd",
-		"editor.selectionHighlightBackground": "#f0ad6d",
-		"editorBracketMatch.border": "#f0ad6d",
-		"editor.findMatchBorder": "#f0ad6d",
-		"editor.findMatchHighlightBackground": "#f0ad6d",
-		"editor.lineHighlightBorder": "#8b8bcd",
-		"editorRuler.foreground": "#8b8bcd",
-		"editor.foldBackground": "#3e3e75",
-		"editorError.foreground": "#ce4e4e", // done
-		"editorWarning.foreground": "#ffcd00", // done
-		"editorInfo.foreground": "#7e7eae", // done
-		"editorGutter.background": "#3e3e75", // done
-		"editorGutter.addedBackground": "#306b8f", // done
-		"editorGutter.deletedBackground": "#6d3030", // done
-		"editorGutter.modifiedBackground": "#306b8f", // done
+		"editor.selectionBackground": "#3e3e75", // done
+		"editor.inactiveSelectionBackground": "#3e3e75", // done
+		"editorWhitespace.foreground": "#8b8bcd", // done
+		"editor.selectionHighlightBackground": "#f0ad6d", // done
+		// "editorBracketMatch.border": "#f0ad6d", // ?
+		"editor.findMatchBorder": "#f0ad6d", // done
+		"editor.findMatchBackground": "#3e3e75", // done
+		"editor.findMatchHighlightBackground": "#f0ad6d", // done
+		"editor.lineHighlightBorder": "#8b8bcd", // done
+		"editorRuler.foreground": "#8b8bcd", // done
+		"editorGroup.border": "#3e3e75", // done
+		"editor.foldBackground": "#3e3e75", // done?
+		"editorError.foreground": "#ce4e4e",
+		"editorWarning.foreground": "#ffcd00",
+		"editorInfo.foreground": "#7e7eae",
+		"editorGutter.background": "#3e3e75",
+		"editorGutter.addedBackground": "#306b8f",
+		"editorGutter.deletedBackground": "#6d3030",
+		"editorGutter.modifiedBackground": "#306b8f",
 		"editorGutter.foldingControlForeground": "#8b8bcd",
-		"editorGroup.border": "#3e3e75",
 
 		// Diff Editor
 		"diffEditor.insertedTextBackground": "#306d30", // done
