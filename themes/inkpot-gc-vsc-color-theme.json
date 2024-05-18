@@ -4,9 +4,9 @@
 		// General
 		"editor.background": "#1b1b33", // done
 		"editor.foreground": "#5ed378", // done
-		"focusBorder": "#8b8bcd", // done
+		"focusBorder": "#1b1b33", // done
 		"foreground": "#5ed378", // done
-		"progressBar.background": "#eeeeee", // done
+		"progressBar.background": "#5ed378", // done
 		"scrollbar.shadow": "#3e3e75", // done
 		"selection.background": "#3e3e75", // done
 
@@ -14,30 +14,28 @@
 		"activityBar.background": "#3e3e75", // done
 		"activityBar.foreground": "#eeeeee", // done
 		"activityBar.inactiveForeground": "#8b8bcd", // done
-		"activityBarBadge.background": "#eeeeee", // done
+		"activityBarBadge.background": "#1b1b33", // done
 		"activityBarBadge.foreground": "#3e3e75", // done
-		"activityBar.border": "#8b8bcd", // done
+		"activityBar.border": "#1b1b33", // done
 
 		// Side Bar
 		"sideBar.background": "#1b1b33", // done
 		"sideBar.foreground": "#8b8bcd", // done
-		"sideBar.border": "#8b8bcd", // done
-		"sideBarSectionHeader.background": "#3e3e75", // done
+		"sideBar.border": "#1b1b33", // done
+		"sideBarSectionHeader.background": "#1b1b33", // done
 		"sideBarSectionHeader.foreground": "#8b8bcd", // done
-		"sideBarSectionHeader.border": "#8b8bcd", // done
 		"sideBarTitle.foreground": "#8b8bcd", // done
-		"list.activeSelectionBackground": "#8b8bcd", // done
+		"list.activeSelectionBackground": "#3e3e75", // done
 		"list.activeSelectionForeground": "#eeeeee", // done
 		"list.inactiveSelectionBackground": "#3e3e75", // done
-		"list.inactiveSelectionForeground": "#eeeeee", // done
-		"list.hoverBackground": "#8b8bcd", // done
-		"list.hoverForeground": "#3e3e75", // done
-		"list.highlightForeground": "#eeeeee", // dodo
-		"list.focusBackground": "#8b8bcd", // done
-		"list.focusForeground": "#eeeeee", // done
-		"list.dropBackground": "#1b1b33", // done
+		"list.inactiveSelectionForeground": "#8b8bcd", // done
+		"list.hoverBackground": "#3e3e75", // done
+		"list.hoverForeground": "#8b8bcd", // done
+		"list.dropBackground": "#3e3e75", // done?
+		"list.highlightForeground": "#eeeeee", // done?
+		"list.focusBackground": "#3e3e75", // done?
+		"list.focusForeground": "#8b8bcd", // done?
 		"listFilterWidget.background": "#3e3e75", // done
-		"listFilterWidget.outline": "#8b8bcd", // done
 		"listFilterWidget.noMatchesOutline": "#6e2e2e", // done
 
 		// Status Bar
@@ -45,44 +43,44 @@
 		"statusBar.background": "#1b1b33", // done
 		"statusBarItem.hoverBackground": "#8b8bcd", // done
 		"statusBarItem.hoverForeground": "#3e3e75", // done
-		"statusBar.border": "#3e3e75", // done
-		"statusBar.debuggingForeground": "#5ed378", // done
+		"statusBar.debuggingForeground": "#eeeeee", // done
 		"statusBarItem.remoteBackground": "#1b1b33", // done
 		"statusBarItem.remoteForeground": "#8b8bcd", // done
 
 		// Title Bar
-		"titleBar.activeBackground": "#1b1b33",
-		"titleBar.activeForeground": "#00ff00",
-		"titleBar.inactiveBackground": "#3e3e75",
-		"titleBar.inactiveForeground": "#5ed378",
-		"titleBar.border": "#3e3e75",
+		"titleBar.activeBackground": "#3e3e75", // done
+		"titleBar.activeForeground": "#eeeeee", // done
+		"titleBar.inactiveBackground": "#1b1b33", // done
+		"titleBar.inactiveForeground": "#8b8bcd", // done
 
 		// Buttons
-		"button.background": "#3e3e75",
-		"button.foreground": "#00ff00",
-		"button.hoverBackground": "#8b8bcd",
-		"textLink.foreground": "#f0ad6d",
-		"textLink.activeForeground": "#f0ad6d",
+		"button.background": "#3e3e75", // done
+		"button.foreground": "#eeeeee", // done
+		"button.hoverBackground": "#8b8bcd", // done
+		"textLink.foreground": "#eeeeee", // done
+		"textLink.activeForeground": "#8b8bcd", // done
 
 		// Inputs
-		"input.background": "#1b1b33",
-		"input.foreground": "#00ff00",
-		"input.placeholderForeground": "#5ed378",
-		"inputOption.activeForeground": "#f0ad6d",
-		"inputOption.activeBorder": "#3e3e75",
-		"inputOption.hoverBackground": "#3e3e75",
+		"input.border": "#8b8bcd", // done
+		"input.background": "#3e3e75", // done
+		"input.foreground": "#8b8bcd", // done
+		"input.placeholderForeground": "#eeeeee", // done
+		"inputOption.activeForeground": "#eeeeee", // done
+		"inputOption.activeBackground": "#8b8bcd", // done
+		"inputOption.activeBorder": "#eeeeee", // done
+		"inputOption.hoverBackground": "#8b8bcd", // done
 
 		// Panel (Terminal)
-		"panel.border": "#3e3e75",
-		"panelTitle.activeBorder": "#f0ad6d",
-		"panelTitle.activeForeground": "#f0ad6d",
-		"panelTitle.inactiveForeground": "#5ed378",
+		"panel.border": "#3e3e75", // done
+		"panelTitle.activeBorder": "#eeeeee", // done
+		"panelTitle.activeForeground": "#eeeeee", // done
+		"panelTitle.inactiveForeground": "#8b8bcd", // done
 		"terminalCursor.background": "#404040", // done
 		"terminalCursor.foreground": "#8fff8b", // done
-		"badge.background": "#3e3e75",
-		"badge.foreground": "#5ed378",
-		"terminal.border": "#3e3e75",
-		"terminal.foreground": "#5ed378",
+		"badge.background": "#1b1b33", // done
+		"badge.foreground": "#3e3e75", // done
+		"terminal.border": "#3e3e75", // done
+		"terminal.foreground": "#eeeeee", // done
 
 		// Tabs
 		"editorGroupHeader.tabsBackground": "#1b1b33",
@@ -112,6 +110,9 @@
 		"editorWidget.resizeBorder": "#3e3e75",
 
 		// Editor
+		// "editorStickyScroll.background": "#3e3e75",
+		"editorStickyScroll.border": "#8b8bcd", // done
+		// "editorStickyScroll.shadow": "#3e3e75",
 		"editorLineNumber.foreground": "#8b8bcd", // done
 		"editorLineNumber.activeForeground": "#b7b7f7", // done?
 		"editorCursor.background": "#2e2e37", // done
