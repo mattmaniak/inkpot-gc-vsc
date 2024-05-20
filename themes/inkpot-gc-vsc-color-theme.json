@@ -6,7 +6,7 @@
 		"editor.foreground": "#5ed378", // done
 		"focusBorder": "#1b1b33", // done
 		"foreground": "#5ed378", // done
-		"progressBar.background": "#5ed378", // done
+		"progressBar.background": "#eeeeee", // done
 		"scrollbar.shadow": "#3e3e75", // done
 		"selection.background": "#3e3e75", // done
 
@@ -35,6 +35,7 @@
 		"list.highlightForeground": "#eeeeee", // done?
 		"list.focusBackground": "#3e3e75", // done?
 		"list.focusForeground": "#8b8bcd", // done?
+		"list.focusHighlightForeground": "#8b8bcd", // done
 		"listFilterWidget.background": "#3e3e75", // done
 		"listFilterWidget.noMatchesOutline": "#6e2e2e", // done
 
@@ -168,23 +169,24 @@
 		"editorMarkerNavigationInfo.background": "#8b8bcd", // done
 
 		// Merge Conflicts
-		"merge.currentHeaderBackground": "#4a2a4a", // done
-		"merge.currentContentBackground": "#4a2a4a", // done
+		"merge.currentHeaderBackground": "#6d3030", // done
+		"merge.currentContentBackground": "#6d3030", // done
 		"merge.incomingHeaderBackground": "#306d30", // done
 		"merge.incomingContentBackground": "#306d30", // done
-		"merge.commonHeaderBackground": "#4a2a4a", // done
-		"merge.commonContentBackground": "#4a2a4a", // done
+		"merge.commonHeaderBackground": "#306b8f", // done
+		"merge.commonContentBackground": "#306b8f", // done
 
 		// Suggest Widget
-		"editorSuggestWidget.background": "#1b1b33",
-		"editorSuggestWidget.border": "#3e3e75",
-		"editorSuggestWidget.highlightForeground": "#f0ad6d",
-		"editorSuggestWidget.selectedBackground": "#3e3e75",
+		"editorSuggestWidget.background": "#1b1b33", // done
+		"editorSuggestWidget.border": "#3e3e75", // done
+		"editorSuggestWidget.focusHighlightForeground": "#8b8bcd", // done
+		"editorSuggestWidget.highlightForeground": "#eeeeee", // done
+		"editorSuggestWidget.selectedBackground": "#3e3e75", // done
 
 		// Hover Widget
-		"editorHoverWidget.background": "#1b1b33",
-		"editorHoverWidget.foreground": "#5ed378",
-		"editorHoverWidget.border": "#3e3e75",
+		"editorHoverWidget.background": "#1b1b33", // done
+		"editorHoverWidget.foreground": "#5ed378", // done
+		"editorHoverWidget.border": "#3e3e75", // done
 
 		// Peek View Editor
 		"peekView.border": "#3e3e75",
