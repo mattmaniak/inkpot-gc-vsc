@@ -119,7 +119,7 @@
 		"notifications.border": "#3e3e75", // done
 		"notificationToast.border": "#3e3e75", // done
 		"notificationsErrorIcon.foreground": "#ce4e4e", // done
-		"notificationsWarningIcon.foreground": "#ffcd00", // done
+		"notificationsWarningIcon.foreground": "#ce8e4e", // done
 		"notificationsInfoIcon.foreground": "#8b8bcd", // done
 		"notificationCenterHeader.foreground": "#8b8bcd", // done
 		"notificationCenterHeader.background": "#1b1b33", // done
@@ -146,26 +146,26 @@
 		"editor.lineHighlightBorder": "#8b8bcd", // done
 		"editorRuler.foreground": "#8b8bcd", // done
 		"editorGroup.border": "#3e3e75", // done
-		"editor.foldBackground": "#3e3e75", // done?
+		"editor.foldBackground": "#3e3e75", // done
 		"editorError.foreground": "#ce4e4e", // done
-		"editorWarning.foreground": "#ffcd00", // done
+		"editorWarning.foreground": "#ce8e4e", // done
 		"editorInfo.foreground": "#8b8bcd", // done
-		"editorGutter.background": "#3e3e75",
-		"editorGutter.addedBackground": "#306b8f",
-		"editorGutter.deletedBackground": "#6d3030",
-		"editorGutter.modifiedBackground": "#306b8f",
-		"editorGutter.foldingControlForeground": "#8b8bcd",
+		"editorGutter.background": "#3e3e75", // done
+		"editorGutter.addedBackground": "#306d30", // done
+		"editorGutter.deletedBackground": "#6d3030", // done
+		"editorGutter.modifiedBackground": "#306b8f", // done
+		"editorGutter.foldingControlForeground": "#8b8bcd", // done
 
 		// Diff Editor
 		"diffEditor.insertedTextBackground": "#306d30", // done
 		"diffEditor.removedTextBackground": "#6d3030", // done
-		// "diffEditor.border": "#3e3e75",
+		"diffEditor.border": "#3e3e75", // done
 
 		// Marker Navigation
-		"editorMarkerNavigation.background": "#3e3e75",
+		"editorMarkerNavigation.background": "#3e3e75", // done
 		"editorMarkerNavigationError.background": "#ce4e4e", // done
-		"editorMarkerNavigationWarning.background": "#ffcd00", // done
-		"editorMarkerNavigationInfo.background": "#7e7eae", // done
+		"editorMarkerNavigationWarning.background": "#ce8e4e", // done
+		"editorMarkerNavigationInfo.background": "#8b8bcd", // done
 
 		// Merge Conflicts
 		"merge.currentHeaderBackground": "#4a2a4a", // done
