@@ -320,7 +320,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#306b8f"
+				"foreground": "#306b8f" // done
 			}
 		},
 		{
@@ -331,31 +331,23 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#306b8f"
+				"foreground": "#306b8f" // done
 			}
 		},
 		{
-			"name": "Function, Function Argument, Special Method",
+			"name": "Block Level Variables, Function, Function Argument, Special Method",
 			"scope": [
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
 				"variable.parameter",
 				"support.function",
-				"keyword.other.special-method"
-			],
-			"settings": {
-				"foreground": "#5ed378"
-			}
-		},
-		{
-			"name": "Block Level Variables",
-			"scope": [
+				"keyword.other.special-method",
 				"meta.block variable.other",
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#5ed378"
+				"foreground": "#5ed378" // done
 			}
 		},
 		{
@@ -369,7 +361,7 @@
 			}
 		},
 		{
-			"name": "Number, Constant, Tag Attribute, Embedded, Escape Characters, Regular Expressions",
+			"name": "Constant, Tag Attribute, Embedded, Escape Characters, Regular Expressions",
 			"scope": [
 				"constant.numeric",
 				"constant.language",
@@ -377,28 +369,28 @@
 				"constant.character",
 				"constant.character.escape",
 				"constant.escape",
-				"keyword.other.unit",
-				"string.regexp"
+				"keyword.other.unit", // to test
+				"constant.other.symbol",
+				"constant.other.key",
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ffcd8b"
+				"foreground": "#ffcd8b" // done
 			}
 		},
 		{
-			"name": "String, Symbols, Markup - Heading, Markdown - Heading",
+			"name": "Number, String, Symbols, Markup - Heading, Markdown - Heading",
 			"scope": [
 				"string",
-				"constant.other.symbol",
-				"constant.other.key",
+				"string.regexp",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"markup.heading",
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#f0ad6d"
+				"foreground": "#f0ad6d" // done
 			}
 		},
 		{
