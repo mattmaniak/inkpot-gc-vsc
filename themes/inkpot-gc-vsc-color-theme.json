@@ -127,7 +127,16 @@
 		"notificationCenter.border": "#3e3e75", // done
 
 		// Git Decorations
-		// TODO
+		"gitDecoration.addedResourceForeground": "#306d30", // done
+		"gitDecoration.conflictingResourceForeground": "#6d3030", // done
+		"gitDecoration.deletedResourceForeground": "#6d3030", // done
+		"gitDecoration.ignoredResourceForeground": "#306b8f", // done
+		"gitDecoration.modifiedResourceForeground": "#306b8f", // done
+		"gitDecoration.renamedResourceForeground": "#306d30", // done
+		"gitDecoration.stageDeletedResourceForeground": "#6d3030", // done
+		"gitDecoration.stageModifiedResourceForeground": "#306b8f", // done
+		"gitDecoration.submoduleResourceForeground": "#306d30", // done
+		"gitDecoration.untrackedResourceForeground": "#306b8f", // done
 
 		// Editor
 		"editorStickyScroll.border": "#8b8bcd", // done
