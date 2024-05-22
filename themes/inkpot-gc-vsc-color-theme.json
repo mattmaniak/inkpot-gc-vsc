@@ -37,7 +37,7 @@
 		"list.focusForeground": "#8b8bcd", // done?
 		"list.focusHighlightForeground": "#8b8bcd", // done
 		"listFilterWidget.background": "#3e3e75", // done
-		"listFilterWidget.noMatchesOutline": "#6e2e2e", // done
+		"listFilterWidget.noMatchesOutline": "#ce4e4e", // done
 
 		// Status Bar
 		"statusBar.foreground": "#8b8bcd", // done
@@ -228,7 +228,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#00ff00"
+				"foreground": "#00ff00" // done
 			}
 		},
 		{
@@ -253,7 +253,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#6e2e2e"
+				"foreground": "#6e2e2e" // done
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"text.html.markdown markup.inline.raw.markdown",
 			],
 			"settings": {
-				"foreground": "#ff8bff"
+				"foreground": "#ff8bff" // done
 			}
 		},
 		{
@@ -280,7 +280,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#b7b7f7"
+				"foreground": "#b7b7f7" // done
 			}
 		},
 		{
