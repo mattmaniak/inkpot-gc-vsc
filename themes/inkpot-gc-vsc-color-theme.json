@@ -32,7 +32,7 @@
 		"list.hoverBackground": "#3e3e75", // done
 		"list.hoverForeground": "#8b8bcd", // done
 		"list.dropBackground": "#3e3e75", // done?
-		"list.highlightForeground": "#eeeeee", // done?
+		"list.highlightForeground": "#8b8bcd", // done
 		"list.focusBackground": "#3e3e75", // done?
 		"list.focusForeground": "#8b8bcd", // done?
 		"list.focusHighlightForeground": "#8b8bcd", // done
@@ -189,20 +189,20 @@
 		"editorHoverWidget.border": "#3e3e75", // done
 
 		// Peek View Editor
-		"peekView.border": "#3e3e75",
-		"peekViewEditor.background": "#1b1b33",
-		"peekViewEditorGutter.background": "#1b1b33",
-		"peekViewEditor.matchHighlightBackground": "#3e3e75",
-		"peekViewEditor.matchHighlightBorder": "#3e3e75",
-		"peekViewResult.background": "#3e3e75",
-		"peekViewResult.fileForeground": "#8b8bcd",
-		"peekViewResult.lineForeground": "#5ed378",
-		"peekViewResult.matchHighlightBackground": "#3e3e75",
-		"peekViewResult.selectionBackground": "#3e3e75",
-		"peekViewResult.selectionForeground": "#8b8bcd",
-		"peekViewTitle.background": "#3e3e75",
-		"peekViewTitleLabel.foreground": "#5ed378",
-		"peekViewTitleDescription.foreground": "#5ed378"
+		"peekView.border": "#8b8bcd", // done inherited
+		"peekViewEditor.background": "#1b1b33", // done
+		"peekViewEditorGutter.background": "#3e3e75", // done,
+		"peekViewEditor.matchHighlightBackground": "#3e3e75", // done
+		"peekViewEditor.matchHighlightBorder": "#eeeeee", // done
+		"peekViewResult.background": "#1b1b33", // done
+		"peekViewResult.fileForeground": "#8b8bcd", // done
+		"peekViewResult.lineForeground": "#8b8bcd", // done
+		"peekViewResult.matchHighlightBackground": "#3e3e75", // done
+		"peekViewResult.selectionBackground": "#3e3e75", // done
+		"peekViewResult.selectionForeground": "#eeeeee", // done
+		"peekViewTitle.background": "#1b1b33", // done
+		"peekViewTitleLabel.foreground": "#8b8bcd", // done
+		"peekViewTitleDescription.foreground": "#8b8bcd" // done
 	},
 	"tokenColors": [
 		{
