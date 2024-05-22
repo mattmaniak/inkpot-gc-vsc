@@ -54,6 +54,16 @@
 		"titleBar.activeForeground": "#eeeeee", // done
 		"titleBar.inactiveBackground": "#1b1b33", // done
 		"titleBar.inactiveForeground": "#8b8bcd", // done
+		"menu.background": "#1b1b33", // to test
+		"menu.border": "#3e3e75", // to test
+		"menu.foreground": "#8b8bcd", // to test
+		"menu.separatorBackground": "#3e3e75", // to test
+		"menu.selectionBackground": "#3e3e75", // to test
+		"menu.selectionForeground": "#eeeeee", // to test
+		"menu.selectionBorder": "#8b8bcd", // to test
+		"menubar.selectionBackground": "#ff0000",
+		"menubar.selectionBorder": "#ff0000",
+		"menubar.selectionForeground": "#ff0000",
 
 		// Buttons
 		"button.background": "#3e3e75", // done
