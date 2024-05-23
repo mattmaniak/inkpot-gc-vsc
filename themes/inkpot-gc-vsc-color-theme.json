@@ -242,17 +242,25 @@
 			}
 		},
 		{
-			"name": "Variables, Markdown - Plain, meta.method.js",
+			"name": "Block Level Variables, Function, Function Argument, Special Method, Variables, Markdown - Plain, meta.method.js",
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
 				"text.html.markdown",
 				"punctuation.definition.list_item.markdown",
 				"meta.class-method.js entity.name.function.js",
-				"variable.function.constructor"
+				"variable.function.constructor",
+				"entity.name.function",
+				"meta.function-call",
+				"variable.function",
+				"variable.parameter",
+				"support.function",
+				"keyword.other.special-method",
+				"meta.block variable.other",
+				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#5ed378"
+				"foreground": "#5ed378" // done
 			}
 		},
 		{
@@ -281,13 +289,16 @@
 			}
 		},
 		{
-			"name": "Language Methods, Operator, Storage",
+			"name": "ES7 Bind Operator, Sub-methods, Language Methods, Operator, Storage",
 			"scope": [
 				"keyword.other",
 				"keyword.operator",
 				"storage.modifier",
 				"storage.type",
-				"variable.language"
+				"variable.language",
+				"entity.name.module.js",
+				"variable.import.parameter.js",
+				"source.js constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
 				"foreground": "#b7b7f7" // done
@@ -335,32 +346,6 @@
 			}
 		},
 		{
-			"name": "Block Level Variables, Function, Function Argument, Special Method",
-			"scope": [
-				"entity.name.function",
-				"meta.function-call",
-				"variable.function",
-				"variable.parameter",
-				"support.function",
-				"keyword.other.special-method",
-				"meta.block variable.other",
-				"variable.other.class.js"
-			],
-			"settings": {
-				"foreground": "#5ed378" // done
-			}
-		},
-		{
-			"name": "Other Variable, String Link",
-			"scope": [
-				"support.other.variable",
-				"string.other.link"
-			],
-			"settings": {
-				"foreground": "#f0ad6d"
-			}
-		},
-		{
 			"name": "Constant, Tag Attribute, Embedded, Escape Characters, Regular Expressions",
 			"scope": [
 				"constant.numeric",
@@ -379,7 +364,7 @@
 			}
 		},
 		{
-			"name": "Number, String, Symbols, Markup - Heading, Markdown - Heading",
+			"name": "Other Variable, String Link, Number, String, Symbols, Markup - Heading, Markdown - Heading",
 			"scope": [
 				"string",
 				"string.regexp",
@@ -387,14 +372,16 @@
 				"markup.heading",
 				"markdown.heading",
 				"markup.heading | markup.heading entity.name",
-				"markup.heading.markdown punctuation.definition.heading.markdown"
+				"markup.heading.markdown punctuation.definition.heading.markdown",
+				"support.other.variable",
+				"string.other.link"
 			],
 			"settings": {
 				"foreground": "#f0ad6d" // done
 			}
 		},
 		{
-			"name": "Class, Inherited Class, Support, Entity Types",
+			"name": "CSS Class and Support, Class, Inherited Class, Support, Entity Types",
 			"scope": [
 				"support.type",
 				"support.class",
@@ -404,15 +391,6 @@
 				"markup.changed.git_gutter",
 				"support.type.sys-types",
 				"entity.other.inherited-class",
-
-			],
-			"settings": {
-				"foreground": "#ff8bff"
-			}
-		},
-		{
-			"name": "CSS Class and Support",
-			"scope": [
 				"source.css support.type.property-name",
 				"source.sass support.type.property-name",
 				"source.scss support.type.property-name",
@@ -421,18 +399,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ff8bff"
-			}
-		},
-		{
-			"name": "ES7 Bind Operator, Sub-methods",
-			"scope": [
-				"entity.name.module.js",
-				"variable.import.parameter.js",
-				"source.js constant.other.object.key.js string.unquoted.label.js"
-			],
-			"settings": {
-				"foreground": "#6e2e2e"
+				"foreground": "#ff8bff" // done
 			}
 		},
 		{
@@ -464,7 +431,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5ed378"
+				"foreground": "#5ed378" // done
 			}
 		},
 		{
@@ -592,7 +559,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#f0ad6d"
+				"foreground": "#f0ad6d" // done
 			}
 		},
 		{
