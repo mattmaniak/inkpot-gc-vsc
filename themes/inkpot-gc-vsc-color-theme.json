@@ -57,9 +57,9 @@
 		"menu.selectionBorder": "#8b8bcd", // to test
 		"menu.selectionForeground": "#eeeeee", // to test
 		"menu.separatorBackground": "#3e3e75", // to test
-		"menubar.selectionBackground": "#ff0000",
-		"menubar.selectionBorder": "#ff0000",
-		"menubar.selectionForeground": "#ff0000",
+		"menubar.selectionBackground": "#8b8bcd", // test
+		"menubar.selectionBorder": "#eeeeee", // to test
+		"menubar.selectionForeground": "#eeeeee",
 		"titleBar.activeBackground": "#3e3e75", // done
 		"titleBar.activeForeground": "#eeeeee", // done
 		"titleBar.inactiveBackground": "#1b1b33", // done
