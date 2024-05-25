@@ -7,79 +7,79 @@
 		"focusBorder": "#1b1b33", // done
 		"foreground": "#5ed378", // done
 		"progressBar.background": "#eeeeee", // done
-		"scrollbar.shadow": "#3e3e75", // done
 		"selection.background": "#3e3e75", // done
+		"scrollbar.shadow": "#3e3e75", // done
 
 		// Activity Bar
 		"activityBar.background": "#3e3e75", // done
+		"activityBar.border": "#1b1b33", // done
 		"activityBar.foreground": "#eeeeee", // done
 		"activityBar.inactiveForeground": "#8b8bcd", // done
 		"activityBarBadge.background": "#eeeeee", // done
 		"activityBarBadge.foreground": "#3e3e75", // done
-		"activityBar.border": "#1b1b33", // done
 
 		// Side Bar
-		"sideBar.background": "#1b1b33", // done
-		"sideBar.foreground": "#8b8bcd", // done
-		"sideBar.border": "#3e3e75", // done
-		"sideBarSectionHeader.background": "#1b1b33", // done
-		"sideBarSectionHeader.foreground": "#8b8bcd", // done
-		"sideBarTitle.foreground": "#8b8bcd", // done
 		"list.activeSelectionBackground": "#3e3e75", // done
 		"list.activeSelectionForeground": "#eeeeee", // done
-		"list.inactiveSelectionBackground": "#3e3e75", // done
-		"list.inactiveSelectionForeground": "#8b8bcd", // done
-		"list.hoverBackground": "#3e3e75", // done
-		"list.hoverForeground": "#8b8bcd", // done
 		"list.dropBackground": "#3e3e75", // done?
 		"list.highlightForeground": "#8b8bcd", // done
+		"list.hoverBackground": "#3e3e75", // done
+		"list.hoverForeground": "#8b8bcd", // done
+		"list.inactiveSelectionBackground": "#3e3e75", // done
+		"list.inactiveSelectionForeground": "#8b8bcd", // done
 		"list.focusBackground": "#3e3e75", // done?
 		"list.focusForeground": "#8b8bcd", // done?
 		"list.focusHighlightForeground": "#8b8bcd", // done
 		"listFilterWidget.background": "#3e3e75", // done
 		"listFilterWidget.noMatchesOutline": "#ce4e4e", // done
+		"sideBar.background": "#1b1b33", // done
+		"sideBar.border": "#3e3e75", // done
+		"sideBar.foreground": "#8b8bcd", // done
+		"sideBarSectionHeader.background": "#1b1b33", // done
+		"sideBarSectionHeader.foreground": "#8b8bcd", // done
+		"sideBarTitle.foreground": "#8b8bcd", // done
 
 		// Status Bar
-		"statusBar.foreground": "#8b8bcd", // done
 		"statusBar.background": "#1b1b33", // done
 		"statusBar.border": "#3e3e75", // done
+		"statusBar.debuggingForeground": "#eeeeee", // done
+		"statusBar.foreground": "#8b8bcd", // done
 		"statusBarItem.hoverBackground": "#8b8bcd", // done
 		"statusBarItem.hoverForeground": "#3e3e75", // done
-		"statusBar.debuggingForeground": "#eeeeee", // done
 		"statusBarItem.remoteBackground": "#1b1b33", // done
 		"statusBarItem.remoteForeground": "#8b8bcd", // done
 
 		// Title Bar
+		"menu.background": "#1b1b33", // to test
+		"menu.border": "#3e3e75", // to test
+		"menu.foreground": "#8b8bcd", // to test
+		"menu.selectionBackground": "#3e3e75", // to test
+		"menu.selectionBorder": "#8b8bcd", // to test
+		"menu.selectionForeground": "#eeeeee", // to test
+		"menu.separatorBackground": "#3e3e75", // to test
+		"menubar.selectionBackground": "#ff0000",
+		"menubar.selectionBorder": "#ff0000",
+		"menubar.selectionForeground": "#ff0000",
 		"titleBar.activeBackground": "#3e3e75", // done
 		"titleBar.activeForeground": "#eeeeee", // done
 		"titleBar.inactiveBackground": "#1b1b33", // done
 		"titleBar.inactiveForeground": "#8b8bcd", // done
-		"menu.background": "#1b1b33", // to test
-		"menu.border": "#3e3e75", // to test
-		"menu.foreground": "#8b8bcd", // to test
-		"menu.separatorBackground": "#3e3e75", // to test
-		"menu.selectionBackground": "#3e3e75", // to test
-		"menu.selectionForeground": "#eeeeee", // to test
-		"menu.selectionBorder": "#8b8bcd", // to test
-		"menubar.selectionBackground": "#ff0000",
-		"menubar.selectionBorder": "#ff0000",
-		"menubar.selectionForeground": "#ff0000",
 
 		// Buttons
 		"button.background": "#3e3e75", // done
 		"button.foreground": "#eeeeee", // done
 		"button.hoverBackground": "#8b8bcd", // done
-		"textLink.foreground": "#eeeeee", // done
 		"textLink.activeForeground": "#8b8bcd", // done
+		"textLink.foreground": "#eeeeee", // done
 
 		// Inputs
-		"input.border": "#8b8bcd", // done
 		"input.background": "#3e3e75", // done
+		"input.border": "#8b8bcd", // done
 		"input.foreground": "#8b8bcd", // done
 		"input.placeholderForeground": "#eeeeee", // done
-		"inputOption.activeForeground": "#eeeeee", // done
 		"inputOption.activeBackground": "#8b8bcd", // done
 		"inputOption.activeBorder": "#eeeeee", // done
+		"inputOption.activeForeground": "#eeeeee", // done
 		"inputOption.hoverBackground": "#8b8bcd", // done
 
 		// Panel (Terminal)
@@ -87,54 +87,54 @@
 		"panelTitle.activeBorder": "#eeeeee", // done
 		"panelTitle.activeForeground": "#eeeeee", // done
 		"panelTitle.inactiveForeground": "#8b8bcd", // done
-		"terminalCursor.background": "#404040", // done
-		"terminalCursor.foreground": "#8fff8b", // done
 		"badge.background": "#eeeeee", // done
 		"badge.foreground": "#3e3e75", // done
 		"terminal.border": "#3e3e75", // done
 		"terminal.foreground": "#eeeeee", // done
+		"terminalCursor.background": "#404040", // done
+		"terminalCursor.foreground": "#8fff8b", // done
 
 		// Tabs
+		"editorGroupHeader.border": "#3e3e75", // done
 		"editorGroupHeader.tabsBackground": "#1b1b33", // done
 		"editorGroupHeader.tabsBorder": "#3e3e75", // done
-		"tab.activeForeground": "#eeeeee", // done
 		"tab.activeBackground": "#3e3e75", // done
-		"tab.inactiveForeground": "#8b8bcd", // done
-		"tab.inactiveBackground": "#1b1b33", // done
 		"tab.activeBorderTop": "#eeeeee", // done
+		"tab.activeForeground": "#eeeeee", // done
 		"tab.hoverBackground": "#3e3e75", // done
+		"tab.inactiveBackground": "#1b1b33", // done
+		"tab.inactiveForeground": "#8b8bcd", // done
 		
 		// Breadcrumbs
-		"breadcrumb.foreground": "#8b8bcd", // done
-		"breadcrumb.focusForeground": "#eeeeee", // done
 		"breadcrumb.activeSelectionForeground": "#eeeeee", // done
-		"editorGroupHeader.border": "#3e3e75", // done
+		"breadcrumb.focusForeground": "#eeeeee", // done
+		"breadcrumb.foreground": "#8b8bcd", // done
 
 		// Scrollbar
-		"scrollbarSlider.background": "#8b8bcd", // done
 		"scrollbarSlider.activeBackground": "#eeeeee", // done
+		"scrollbarSlider.background": "#8b8bcd", // done
 		"scrollbarSlider.hoverBackground": "#eeeeee", // done
 
 		// Widgets
-		"widget.border": "#3e3e75", // done
-		"widget.shadow": "#3e3e75", // done
-		"editorWidget.background": "#1b1b33", // done
-		"pickerGroup.border": "#3e3e75", // done
-		"pickerGroup.foreground": "#8b8bcd", // done
-		"editorWidget.resizeBorder": "#3e3e75", // done
 		"debugToolBar.background": "#1b1b33", // done
 		"debugToolBar.border": "#3e3e75", // done
+		"editorWidget.background": "#1b1b33", // done
+		"editorWidget.resizeBorder": "#3e3e75", // done
+		"pickerGroup.border": "#3e3e75", // done
+		"pickerGroup.foreground": "#8b8bcd", // done
+		"widget.border": "#3e3e75", // done
+		"widget.shadow": "#3e3e75", // done
 
 		// Notifications
-		"notifications.foreground": "#8b8bcd", // done
 		"notifications.border": "#3e3e75", // done
-		"notificationToast.border": "#3e3e75", // done
-		"notificationsErrorIcon.foreground": "#ce4e4e", // done
-		"notificationsWarningIcon.foreground": "#ce8e4e", // done
-		"notificationsInfoIcon.foreground": "#8b8bcd", // done
-		"notificationCenterHeader.foreground": "#8b8bcd", // done
+		"notifications.foreground": "#8b8bcd", // done
 		"notificationCenterHeader.background": "#1b1b33", // done
 		"notificationCenter.border": "#3e3e75", // done
+		"notificationCenterHeader.foreground": "#8b8bcd", // done
+		"notificationsErrorIcon.foreground": "#ce4e4e", // done
+		"notificationsInfoIcon.foreground": "#8b8bcd", // done
+		"notificationToast.border": "#3e3e75", // done
+		"notificationsWarningIcon.foreground": "#ce8e4e", // done
 
 		// Git Decorations
 		"gitDecoration.addedResourceForeground": "#306d30", // done
@@ -149,51 +149,51 @@
 		"gitDecoration.untrackedResourceForeground": "#306b8f", // done
 
 		// Editor
-		"editorStickyScroll.border": "#8b8bcd", // done
-		"editorStickyScroll.shadow": "#3e3e75", // done
-		"editorLineNumber.foreground": "#8b8bcd", // done
-		"editorLineNumber.activeForeground": "#eeeeee", // done
-		"editorCursor.background": "#2e2e37", // done
-		"editorCursor.foreground": "#8fff8b", // done
-		"editor.selectionBackground": "#3e3e75", // done
+		"editor.findMatchBackground": "#3e3e75", // done
+		"editor.findMatchBorder": "#f0ad6d", // done
+		"editor.findMatchHighlightBackground": "#f0ad6d", // done
+		"editor.foldBackground": "#3e3e75", // done
 		"editor.inactiveSelectionBackground": "#3e3e75", // done
-		"editorWhitespace.foreground": "#8b8bcd", // done
+		"editor.lineHighlightBorder": "#8b8bcd", // done
+		"editor.selectionBackground": "#3e3e75", // done
 		"editor.selectionHighlightBackground": "#f0ad6d", // done
 		"editorBracketMatch.border": "#f0ad6d", // done
-		"editor.findMatchBorder": "#f0ad6d", // done
-		"editor.findMatchBackground": "#3e3e75", // done
-		"editor.findMatchHighlightBackground": "#f0ad6d", // done
-		"editor.lineHighlightBorder": "#8b8bcd", // done
-		"editorRuler.foreground": "#8b8bcd", // done
-		"editorGroup.border": "#3e3e75", // done
-		"editor.foldBackground": "#3e3e75", // done
+		"editorCursor.background": "#2e2e37", // done
+		"editorCursor.foreground": "#8fff8b", // done
 		"editorError.foreground": "#ce4e4e", // done
-		"editorWarning.foreground": "#ce8e4e", // done
-		"editorInfo.foreground": "#8b8bcd", // done
-		"editorGutter.background": "#3e3e75", // done
+		"editorGroup.border": "#3e3e75", // done
 		"editorGutter.addedBackground": "#306d30", // done
+		"editorGutter.background": "#3e3e75", // done
 		"editorGutter.deletedBackground": "#6d3030", // done
-		"editorGutter.modifiedBackground": "#306b8f", // done
 		"editorGutter.foldingControlForeground": "#8b8bcd", // done
+		"editorGutter.modifiedBackground": "#306b8f", // done
+		"editorInfo.foreground": "#8b8bcd", // done
+		"editorLineNumber.foreground": "#8b8bcd", // done
+		"editorLineNumber.activeForeground": "#eeeeee", // done
+		"editorRuler.foreground": "#8b8bcd", // done
+		"editorStickyScroll.border": "#8b8bcd", // done
+		"editorStickyScroll.shadow": "#3e3e75", // done
+		"editorWarning.foreground": "#ce8e4e", // done
+		"editorWhitespace.foreground": "#8b8bcd", // done
 
 		// Diff Editor
+		"diffEditor.border": "#3e3e75", // done
 		"diffEditor.insertedTextBackground": "#306d30", // done
 		"diffEditor.removedTextBackground": "#6d3030", // done
-		"diffEditor.border": "#3e3e75", // done
 
 		// Marker Navigation
 		"editorMarkerNavigation.background": "#3e3e75", // done
 		"editorMarkerNavigationError.background": "#ce4e4e", // done
-		"editorMarkerNavigationWarning.background": "#ce8e4e", // done
 		"editorMarkerNavigationInfo.background": "#8b8bcd", // done
+		"editorMarkerNavigationWarning.background": "#ce8e4e", // done
 
 		// Merge Conflicts
-		"merge.currentHeaderBackground": "#6d3030", // done
 		"merge.currentContentBackground": "#6d3030", // done
-		"merge.incomingHeaderBackground": "#306d30", // done
+		"merge.currentHeaderBackground": "#6d3030", // done
 		"merge.incomingContentBackground": "#306d30", // done
-		"merge.commonHeaderBackground": "#306b8f", // done
+		"merge.incomingHeaderBackground": "#306d30", // done
 		"merge.commonContentBackground": "#306b8f", // done
+		"merge.commonHeaderBackground": "#306b8f", // done
 
 		// Suggest Widget
 		"editorSuggestWidget.background": "#1b1b33", // done
@@ -210,18 +210,18 @@
 		// Peek View Editor
 		"peekView.border": "#8b8bcd", // done inherited
 		"peekViewEditor.background": "#1b1b33", // done
-		"peekViewEditorGutter.background": "#3e3e75", // done,
 		"peekViewEditor.matchHighlightBackground": "#3e3e75", // done
 		"peekViewEditor.matchHighlightBorder": "#eeeeee", // done
+		"peekViewEditorGutter.background": "#3e3e75", // done,
 		"peekViewResult.background": "#1b1b33", // done
 		"peekViewResult.fileForeground": "#8b8bcd", // done
-		"peekViewResult.lineForeground": "#8b8bcd", // done
 		"peekViewResult.matchHighlightBackground": "#3e3e75", // done
+		"peekViewResult.lineForeground": "#8b8bcd", // done
 		"peekViewResult.selectionBackground": "#3e3e75", // done
 		"peekViewResult.selectionForeground": "#eeeeee", // done
 		"peekViewTitle.background": "#1b1b33", // done
+		"peekViewTitleDescription.foreground": "#8b8bcd", // done
 		"peekViewTitleLabel.foreground": "#8b8bcd", // done
-		"peekViewTitleDescription.foreground": "#8b8bcd" // done
 	},
 	"tokenColors": [
 		{
