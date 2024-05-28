@@ -222,43 +222,42 @@
 		"pickerGroup.border": "#3e3e75", // done
 		"pickerGroup.foreground": "#8b8bcd", // done
 		"widget.border": "#3e3e75", // done
-		"widget.shadow": "#3e3e75", // done
+		"widget.shadow": "#3e3e75" // done
 	},
 	"tokenColors": [
 		{
-			"name": "Comment, Markdown - Fenced Bode Block Variable, Markup - Table, Markdown - Markup Raw Inline Punctuation, Markdown - Fenced Language, Markdown - Blockquote",
+			"name": "Comment, Markdown - Blockquote, Markdown - Fenced Code Block Variable, Markdown - Fenced Language, Markdown - Markup Raw Inline Punctuation, Markup - Table",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment",
-				"markup.table",
 				"markup.raw.block.fenced.markdown",
-				"variable.language.fenced.markdown",
+				"markup.table",
+				"markup.quote punctuation.definition.blockquote.markdown",
+				"punctuation.definition.comment",
 				"punctuation.section.class.end",
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown",
-				"variable.language.fenced.markdown",
-				"markup.quote punctuation.definition.blockquote.markdown"
+				"variable.language.fenced.markdown"
 			],
 			"settings": {
 				"foreground": "#00ff00" // done
 			}
 		},
 		{
-			"name": "Block Level Variables, Function, Function Argument, Special Method, Variables, Markdown - Plain, meta.method.js",
+			"name": "Block Level Variables, Function, Function Argument, Markdown - Plain, meta.method.js, Special Method, Variables",
 			"scope": [
-				"variable",
-				"string constant.other.placeholder",
-				"text.html.markdown",
-				"punctuation.definition.list_item.markdown",
-				"meta.class-method.js entity.name.function.js",
-				"variable.function.constructor",
 				"entity.name.function",
-				"meta.function-call",
-				"variable.function",
-				"variable.parameter",
-				"support.function",
 				"keyword.other.special-method",
 				"meta.block variable.other",
-				"variable.other.class.js"
+				"meta.class-method.js entity.name.function.js",
+				"meta.function-call",
+				"punctuation.definition.list_item.markdown",
+				"string constant.other.placeholder",
+				"support.function",
+				"text.html.markdown",
+				"variable",
+				"variable.function",
+				"variable.function.constructor",
+				"variable.other.class.js",
+				"variable.parameter"
 			],
 			"settings": {
 				"foreground": "#5ed378" // done
@@ -278,58 +277,58 @@
 		{
 			"name": "Keyword, Markdown - Link Description, Markup - Raw Block, Markdown - Markup Raw Inline",
 			"scope": [
-				"keyword",
 				"entity.name.function.preprocessor",
 				"entity.other.attribute-name",
-				"string.other.link.description.title.markdown",
+				"keyword",
 				"markup.raw.block",
-				"text.html.markdown markup.inline.raw.markdown",
+				"string.other.link.description.title.markdown",
+				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
 				"foreground": "#ff8bff" // done
 			}
 		},
 		{
-			"name": "ES7 Bind Operator, Sub-methods, Language Methods, Operator, Storage",
+			"name": "ES7 Bind Operator, Language Methods, Operator, Storage, Sub-methods",
 			"scope": [
-				"keyword.other",
+				"entity.name.module.js",
 				"keyword.operator",
+				"keyword.other",
+				"source.js constant.other.object.key.js string.unquoted.label.js",
 				"storage.modifier",
 				"storage.type",
-				"variable.language",
-				"entity.name.module.js",
 				"variable.import.parameter.js",
-				"source.js constant.other.object.key.js string.unquoted.label.js"
+				"variable.language"
 			],
 			"settings": {
 				"foreground": "#b7b7f7" // done
 			}
 		},
 		{
-			"name": "CSS Class, CSS ID's, Keyword Control, Misc, Tag, Markdown - Link Anchor, Inserted",
+			"name": "CSS Class, CSS ID's, Inserted, Keyword Control, Markdown - Link Anchor, Misc, Tag",
 			"scope": [
 				"constant.other.color",
-				"punctuation",
+				"constant.other.reference.link.markdown",
+				"entity.name.tag",
+				"entity.other.attribute-name.class",
+				"keyword.control",
+				"keyword.control.directive",
+				"keyword.other.template",
+				"keyword.other.substitution",
+				"keyword.preprocessor",
+				"markup.deleted.git_gutter",
+				"markup.inserted",
+				"meta.preprocessor",
 				"meta.tag",
+				"meta.tag.sgml",
+				"punctuation",
 				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution",
-				"keyword.control.directive",
-				"entity.name.tag",
-				"meta.tag.sgml",
-				"markup.deleted.git_gutter",
-				"entity.other.attribute-name.class",
-				"source.sass keyword.control",
-				"constant.other.reference.link.markdown",
-				"markup.inserted",
-				"keyword.preprocessor",
-				"meta.preprocessor",
-				"keyword.control"
+				"punctuation.separator.inheritance.php",
+				"source.sass keyword.control"
 			],
 			"settings": {
 				"foreground": "#306b8f" // done
@@ -338,8 +337,8 @@
 		{
 			"name": "HTML Attributes",
 			"scope": [
-				"text.html.basic entity.other.attribute-name.html",
-				"text.html.basic entity.other.attribute-name"
+				"text.html.basic entity.other.attribute-name",
+				"text.html.basic entity.other.attribute-name.html"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -347,57 +346,57 @@
 			}
 		},
 		{
-			"name": "Constant, Tag Attribute, Embedded, Escape Characters, Regular Expressions",
+			"name": "Constant, Escape Characters, Embedded, Tag Attribute, Regular Expressions",
 			"scope": [
-				"constant.numeric",
-				"constant.language",
-				"support.constant",
 				"constant.character",
 				"constant.character.escape",
 				"constant.escape",
-				"keyword.other.unit", // to test
-				"constant.other.symbol",
+				"constant.numeric",
+				"constant.language",
 				"constant.other.key",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"constant.other.symbol",
+				"keyword.other.unit", // to test
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"support.constant"
 			],
 			"settings": {
 				"foreground": "#ffcd8b" // done
 			}
 		},
 		{
-			"name": "Other Variable, String Link, Number, String, Symbols, Markup - Heading, Markdown - Heading",
+			"name": "Markdown - Heading, Markup - Heading, Number, Other Variable, String, String Link, Symbols",
 			"scope": [
-				"string",
-				"string.regexp",
-				"markup.inserted.git_gutter",
-				"markup.heading",
 				"markdown.heading",
+				"markup.heading",
 				"markup.heading | markup.heading entity.name",
 				"markup.heading.markdown punctuation.definition.heading.markdown",
-				"support.other.variable",
-				"string.other.link"
+				"markup.inserted.git_gutter",
+				"string",
+				"string.other.link",
+				"string.regexp",
+				"support.other.variable"
 			],
 			"settings": {
 				"foreground": "#f0ad6d" // done
 			}
 		},
 		{
-			"name": "CSS Class and Support, Class, Inherited Class, Support, Entity Types",
+			"name": "Class, CSS Class and Support, Entity Types, Inherited Class, Support",
 			"scope": [
-				"support.type",
-				"support.class",
-				"support.other.namespace.use.php",
-				"meta.use.php",
-				"support.other.namespace.php",
-				"markup.changed.git_gutter",
-				"support.type.sys-types",
 				"entity.other.inherited-class",
+				"markup.changed.git_gutter",
+				"meta.use.php",
 				"source.css support.type.property-name",
+				"source.less support.type.property-name",
+				"source.postcss support.type.property-name",
 				"source.sass support.type.property-name",
 				"source.scss support.type.property-name",
-				"source.less support.type.property-name",
 				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name"
+				"support.class",
+				"support.other.namespace.use.php",
+				"support.other.namespace.php",
+				"support.type",
+				"support.type.sys-types"
 			],
 			"settings": {
 				"foreground": "#ff8bff" // done
@@ -415,9 +414,9 @@
 		{
 			"name": "URL",
 			"scope": [
-				"*url*",
 				"*link*",
-				"*uri*"
+				"*uri*",
+				"*url*"
 			],
 			"settings": {
 				"fontStyle": "underline"
@@ -426,9 +425,9 @@
 		{
 			"name": "Decorators, entity.name.method.js",
 			"scope": [
+				"entity.name.method.js",
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js",
-				"entity.name.method.js"
+				"tag.decorator.js punctuation.definition.tag.js"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -541,10 +540,10 @@
 			"name": "Markup - Bold-Italic",
 			"scope": [
 				"markup.bold markup.italic",
-				"markup.italic markup.bold",
-				"markup.quote markup.bold",
 				"markup.bold markup.italic string",
+				"markup.italic markup.bold",
 				"markup.italic markup.bold string",
+				"markup.quote markup.bold",
 				"markup.quote markup.bold string"
 			],
 			"settings": {
