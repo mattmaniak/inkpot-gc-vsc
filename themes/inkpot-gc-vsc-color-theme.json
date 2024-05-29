@@ -152,14 +152,14 @@
 		// Side Bar
 		"list.activeSelectionBackground": "#3e3e75", // done
 		"list.activeSelectionForeground": "#eeeeee", // done
-		"list.dropBackground": "#3e3e75", // done?
+		"list.dropBackground": "#3e3e75", // done
 		"list.highlightForeground": "#8b8bcd", // done
 		"list.hoverBackground": "#3e3e75", // done
 		"list.hoverForeground": "#8b8bcd", // done
 		"list.inactiveSelectionBackground": "#3e3e75", // done
 		"list.inactiveSelectionForeground": "#8b8bcd", // done
-		"list.focusBackground": "#3e3e75", // done?
-		"list.focusForeground": "#8b8bcd", // done?
+		"list.focusBackground": "#3e3e75", // done
+		"list.focusForeground": "#8b8bcd", // done
 		"list.focusHighlightForeground": "#8b8bcd", // done
 		"listFilterWidget.background": "#3e3e75", // done
 		"listFilterWidget.noMatchesOutline": "#ce4e4e", // done
@@ -199,16 +199,16 @@
 		"tab.inactiveForeground": "#8b8bcd", // done
 
 		// Title Bar
-		"menu.background": "#1b1b33", // to test
-		"menu.border": "#3e3e75", // to test
-		"menu.foreground": "#8b8bcd", // to test
-		"menu.selectionBackground": "#3e3e75", // to test
-		"menu.selectionBorder": "#8b8bcd", // to test
-		"menu.selectionForeground": "#eeeeee", // to test
-		"menu.separatorBackground": "#3e3e75", // to test
-		"menubar.selectionBackground": "#8b8bcd", // test
-		"menubar.selectionBorder": "#eeeeee", // to test
-		"menubar.selectionForeground": "#eeeeee",
+		"menu.background": "#1b1b33", // done
+		"menu.border": "#3e3e75", // done
+		"menu.foreground": "#8b8bcd", // done
+		"menu.selectionBackground": "#3e3e75", // done
+		"menu.selectionBorder": "#8b8bcd", // done
+		"menu.selectionForeground": "#eeeeee", // done
+		"menu.separatorBackground": "#3e3e75", // done
+		"menubar.selectionBackground": "#8b8bcd", // done
+		"menubar.selectionBorder": "#eeeeee", // done
+		"menubar.selectionForeground": "#eeeeee", // done
 		"titleBar.activeBackground": "#3e3e75", // done
 		"titleBar.activeForeground": "#eeeeee", // done
 		"titleBar.inactiveBackground": "#1b1b33", // done
