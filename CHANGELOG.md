@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - A screenshot.
+- Keywords for Marketplace.
+- Repo as homepage and issues page for Marketplace.
 
 ## [1.0.0] - 2024-06-04
 

@@ -6,13 +6,32 @@
   "engines": {
     "vscode": "^1.86.0"
   },
-  "repository": {
+  "homepage": "https://github.com/mattmaniak/inkpot-gc-vsc",  "repository": {
     "type": "git",
-    "url": "https://github.com/mattmaniak/inkpot-gc-vsc.git"
+    "url": "https://github.com/mattmaniak/inkpot-gc-vsc"
+  },
+  "bugs": {
+    "url": "https://github.com/mattmaniak/inkpot-gc-vsc/issues"
   },
   "publisher": "mattmaniak",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "coldwind",
+    "coldwind theme",
+    "dark",
+    "dark theme",
+    "gyn theme",
+    "gynvael",
+    "gynvael coldwind",
+    "gynvael coldwind theme",
+    "gynvael theme",
+    "inkpot",
+    "inkpot gc",
+    "inkpot gc theme",
+    "inkpot theme",
+    "theme"
   ],
   "contributes": {
     "themes": [
