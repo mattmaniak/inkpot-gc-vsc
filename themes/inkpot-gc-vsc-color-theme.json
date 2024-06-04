@@ -59,7 +59,6 @@
 		"editorLineNumber.foreground": "#8b8bcd", // done
 		"editorLineNumber.activeForeground": "#eeeeee", // done
 		"editorRuler.foreground": "#8b8bcd", // done
-		"editorStickyScroll.border": "#8b8bcd", // done
 		"editorStickyScroll.shadow": "#3e3e75", // done
 		"editorWarning.foreground": "#ce8e4e", // done
 		"editorWhitespace.foreground": "#8b8bcd", // done
@@ -355,7 +354,7 @@
 				"constant.language",
 				"constant.other.key",
 				"constant.other.symbol",
-				"keyword.other.unit", // to test
+				"keyword.other.unit",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"support.constant"
 			],
