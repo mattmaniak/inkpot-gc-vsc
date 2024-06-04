@@ -128,11 +128,11 @@
 		"terminalCursor.foreground": "#8fff8b",
 
 		// Peek View Editor
-		"peekView.border": "#8b8bcd", inherited
+		"peekView.border": "#8b8bcd",
 		"peekViewEditor.background": "#1b1b33",
 		"peekViewEditor.matchHighlightBackground": "#3e3e75",
 		"peekViewEditor.matchHighlightBorder": "#eeeeee",
-		"peekViewEditorGutter.background": "#3e3e75",,
+		"peekViewEditorGutter.background": "#3e3e75",
 		"peekViewResult.background": "#1b1b33",
 		"peekViewResult.fileForeground": "#8b8bcd",
 		"peekViewResult.matchHighlightBackground": "#3e3e75",
