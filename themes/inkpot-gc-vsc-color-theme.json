@@ -5,7 +5,7 @@
 		"editor.background": "#1b1b33", // done
 		"editor.foreground": "#5ed378", // done
 		"focusBorder": "#1b1b33", // done
-		"foreground": "#5ed378", // done
+		"foreground": "#8b8bcd", // done
 		"progressBar.background": "#eeeeee", // done
 		"selection.background": "#3e3e75", // done
 		"scrollbar.shadow": "#3e3e75", // done
