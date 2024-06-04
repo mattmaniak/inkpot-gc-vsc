@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - A screenshot.
 - Meta for Marketplace: homepage, issues page, keywords.
 
+### Changed
+- Error and warning colors for Side Bar list.
+
 ## [1.0.0] - 2024-06-04
 
 - Created an initial release.
