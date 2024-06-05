@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.86.0"
   },
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "homepage": "https://github.com/mattmaniak/inkpot-gc-vsc",
   "repository": {
     "type": "git",
