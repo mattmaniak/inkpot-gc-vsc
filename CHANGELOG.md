@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Error and warning colors for Side Bar list.
+- Status Bar color for no opened folder.
+
+### Removed
+- Status Bar border when a folder is opened.
 
 ## [1.0.0] - 2024-06-04
 

@@ -172,13 +172,14 @@
 		"sideBarTitle.foreground": "#8b8bcd",
 
 		// Status Bar
-		"statusBar.background": "#1b1b33",
-		"statusBar.border": "#3e3e75",
+		"statusBar.background": "#3e3e75",
 		"statusBar.debuggingForeground": "#eeeeee",
 		"statusBar.foreground": "#8b8bcd",
+		"statusBar.noFolderBackground": "#1b1b33",
+		"statusBar.noFolderBorder": "#3e3e75",
 		"statusBarItem.hoverBackground": "#8b8bcd",
-		"statusBarItem.hoverForeground": "#3e3e75",
-		"statusBarItem.remoteBackground": "#1b1b33",
+		"statusBarItem.hoverForeground": "#eeeeee",
+		"statusBarItem.remoteBackground": "#3e3e75",
 		"statusBarItem.remoteForeground": "#8b8bcd",
 
 		// Suggest Widget
