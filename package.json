@@ -2,7 +2,7 @@
   "name": "inkpot-gc-vsc",
   "displayName": "Inkpot GC VSC",
   "description": "Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code.",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -15,23 +15,15 @@
     "url": "https://github.com/mattmaniak/inkpot-gc-vsc/issues"
   },
   "publisher": "mattmaniak",
+  "license": "The Unlicense",
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "coldwind",
-    "coldwind theme",
     "dark",
     "dark theme",
-    "gyn theme",
-    "gynvael",
-    "gynvael coldwind",
-    "gynvael coldwind theme",
-    "gynvael theme",
     "inkpot",
     "inkpot gc",
-    "inkpot gc theme",
-    "inkpot theme",
     "theme"
   ],
   "contributes": {
