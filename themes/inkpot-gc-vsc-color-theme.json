@@ -4,7 +4,7 @@
 		// General
 		"editor.background": "#1b1b33",
 		"editor.foreground": "#5ed378",
-		"focusBorder": "#1b1b33",
+		"focusBorder": "#8b8bcd",
 		"foreground": "#8b8bcd",
 		"progressBar.background": "#eeeeee",
 		"scrollbar.shadow": "#3e3e75",
