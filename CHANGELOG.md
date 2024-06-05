@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Error and warning colors for Side Bar list.
+- Selection background color as the previous one was the same as regular background.
 - Status Bar color for no opened folder.
 
 ### Removed

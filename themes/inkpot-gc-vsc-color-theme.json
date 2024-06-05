@@ -7,8 +7,8 @@
 		"focusBorder": "#1b1b33",
 		"foreground": "#8b8bcd",
 		"progressBar.background": "#eeeeee",
-		"selection.background": "#3e3e75",
 		"scrollbar.shadow": "#3e3e75",
+		"selection.background": "#1b1b33",
 
 		// All below Editor sections are sorted alphabetically.
 		// Activity Bar
