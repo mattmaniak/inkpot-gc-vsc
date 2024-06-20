@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Input placeholder color to the same as the input's text. Like in the original Dark Modern theme.
+- Status Bar Debugging Background to green-blue instead of a warning-like orange.
 
 ### Fixed
 - Lack of contrast of markup text in "diff added" sections of a code due to the almost same colors used. It is done via implementing half-transparent color for a changed text.
