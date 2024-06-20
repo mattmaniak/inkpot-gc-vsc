@@ -33,8 +33,10 @@
 
 		// Diff Editor
 		"diffEditor.border": "#3e3e75",
-		"diffEditor.insertedTextBackground": "#306d30",
+		"diffEditor.insertedTextBackground": "#306d307f",
+		"diffEditor.insertedLineBackground": "#306d3000",
 		"diffEditor.removedTextBackground": "#6d3030",
+		"diffEditor.removedLineBackground": "#6d30307f",
 		"diffEditorGutter.insertedLineBackground": "#306d30",
 		"diffEditorGutter.removedLineBackground": "#6d3030",
 

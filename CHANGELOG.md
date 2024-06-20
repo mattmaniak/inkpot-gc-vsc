@@ -11,10 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Diff colors for Edtitor Gutter (line numbers) when comparing changes.
 
 ### Changed
-- Input placeholder color to the same as the input's text. Like in the original Dark+ theme.
+- Input placeholder color to the same as the input's text. Like in the original Dark Modern theme.
 
 ### Fixed
-- Lack of contrast of markup text in "diff added" sections of a code due to the almost same colors used. Now they differ more.
+- Lack of contrast of markup text in "diff added" sections of a code due to the almost same colors used. It is done via implementing half-transparent color for a changed text.
 
 ## [1.2.0] - 2024-06-05
 
