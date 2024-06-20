@@ -5,6 +5,17 @@ All notable changes to the Inkpot GC VSC extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0] - 2024-06-20
+
+### Added
+- Diff colors for Edtitor Gutter (line numbers) when comparing changes.
+
+### Changed
+- Input placeholder color to the same as the input's text. Like in the original Dark+ theme.
+
+### Fixed
+- Lack of contrast of markup text in "diff added" sections of a code due to the almost same colors used. Now they differ more.
+
 ## [1.2.0] - 2024-06-05
 
 ### Added

@@ -35,6 +35,8 @@
 		"diffEditor.border": "#3e3e75",
 		"diffEditor.insertedTextBackground": "#306d30",
 		"diffEditor.removedTextBackground": "#6d3030",
+		"diffEditorGutter.insertedLineBackground": "#306d30",
+		"diffEditorGutter.removedLineBackground": "#6d3030",
 
 		// Editor
 		"editor.findMatchBackground": "#3e3e75",
