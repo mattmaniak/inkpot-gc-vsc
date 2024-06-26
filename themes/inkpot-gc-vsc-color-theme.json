@@ -364,6 +364,7 @@
 				"constant.other.symbol",
 				"keyword.other.unit",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"string.regexp",
 				"support.constant"
 			],
 			"settings": {
@@ -380,7 +381,6 @@
 				"markup.inserted.git_gutter",
 				"string",
 				"string.other.link",
-				"string.regexp",
 				"support.other.variable"
 			],
 			"settings": {
