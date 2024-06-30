@@ -42,8 +42,8 @@
 
 		// Editor
 		"editor.findMatchBackground": "#3e3e75",
-		"editor.findMatchBorder": "#f0ad6d",
-		"editor.findMatchHighlightBackground": "#f0ad6d",
+		"editor.findMatchBorder": "#f0ad6d", // to fix
+		"editor.findMatchHighlightBackground": "#f0ad6d", // to fix
 		"editor.foldBackground": "#3e3e75",
 		"editor.inactiveSelectionBackground": "#3e3e75",
 		"editor.lineHighlightBorder": "#8b8bcd",
