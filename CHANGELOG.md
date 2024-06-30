@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Find Match Highlight Background and Border colors that made some found code invisible.
+- Find Match Highlight Background that made some found code invisible when matched.
 
 ## [1.4.1] - 2024-06-26
 
