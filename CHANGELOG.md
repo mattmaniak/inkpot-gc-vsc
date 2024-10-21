@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Selection Highlight Backround color as orange was overlapping a markdown text.
+- Selection Highlight Background color as orange was overlapping a markdown text.
 
 ## [1.4.3] - 2024-06-30
 
