@@ -48,7 +48,7 @@
 		"editor.inactiveSelectionBackground": "#3e3e75",
 		"editor.lineHighlightBorder": "#8b8bcd",
 		"editor.selectionBackground": "#3e3e75",
-		"editor.selectionHighlightBackground": "#f0ad6d",
+		"editor.selectionHighlightBackground": "#3e3e75", // TODO
 		"editorBracketMatch.border": "#f0ad6d",
 		"editorCursor.background": "#2e2e37",
 		"editorCursor.foreground": "#8fff8b",
