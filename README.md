@@ -8,6 +8,9 @@ Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code. This 
 ## The original one:
 - https://github.com/gynvael/stream/blob/master/inne/inkpot_gc.vim
 
+## ...And the quite helpful one:
+- https://github.com/pawlos/GynColorsForSublime
+
 ## Check:
 - http://gynvael.coldwind.pl/
 - https://www.youtube.com/user/GynvaelColdwind
