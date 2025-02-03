@@ -5,6 +5,12 @@ All notable changes to the Inkpot GC VSC extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.Y.Z] - UNRELEASED
+
+## Added
+
+- Custom color for the last line number when it's set to `dimmed`.
+
 ## [1.5.1] - 2025-01-30
 
 ### Changed
