@@ -28,6 +28,7 @@
 		"button.background": "#3e3e75",
 		"button.foreground": "#eeeeee",
 		"button.hoverBackground": "#8b8bcd",
+		"button.separator": "#8b8bcd",
 		"textLink.activeForeground": "#8b8bcd",
 		"textLink.foreground": "#eeeeee",
 
@@ -39,6 +40,11 @@
 		"diffEditor.removedLineBackground": "#6d30307f",
 		"diffEditorGutter.insertedLineBackground": "#306d30",
 		"diffEditorGutter.removedLineBackground": "#6d3030",
+
+		// Dropdowns
+		"dropdown.background": "#3e3e75",
+		"dropdown.foreground": "#eeeeee",
+		"dropdown.listBackground": "#1b1b33",
 
 		// Editor
 		"editor.findMatchBackground": "#3e3e75",
