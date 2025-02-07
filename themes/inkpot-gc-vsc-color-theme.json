@@ -7,7 +7,6 @@
 		"focusBorder": "#8b8bcd",
 		"foreground": "#8b8bcd",
 		"progressBar.background": "#eeeeee",
-		"scrollbar.shadow": "#3e3e75",
 		"selection.background": "#1b1b33",
 
 		// All below Editor sections are sorted alphabetically.
@@ -155,6 +154,7 @@
 		"peekViewTitleLabel.foreground": "#8b8bcd",
 		
 		// Scrollbar
+		"scrollbar.shadow": "#3e3e75",
 		"scrollbarSlider.activeBackground": "#eeeeee",
 		"scrollbarSlider.background": "#8b8bcd",
 		"scrollbarSlider.hoverBackground": "#eeeeee",
@@ -173,6 +173,9 @@
 		"list.focusForeground": "#8b8bcd",
 		"list.focusHighlightForeground": "#8b8bcd",
 		"list.warningForeground": "#ce8e4e",
+		"tree.inactiveIndentGuidesStroke": "#3e3e75",
+		"tree.indentGuidesStroke": "#8b8bcd",
+		"tree.tableColumnsBorder": "#3e3e75",
 		"listFilterWidget.background": "#3e3e75",
 		"listFilterWidget.noMatchesOutline": "#ce4e4e",
 		"sideBar.background": "#1b1b33",
