@@ -69,6 +69,7 @@
 		"editorLineNumber.activeForeground": "#eeeeee",
 		"editorLineNumber.dimmedForeground": "#1b1b33",
 		"editorRuler.foreground": "#8b8bcd",
+		"editorStickyScroll.border": "#8b8bcd",
 		"editorStickyScroll.shadow": "#3e3e75",
 		"editorWarning.foreground": "#ce8e4e",
 		"editorWhitespace.foreground": "#8b8bcd",
@@ -114,6 +115,11 @@
 		"merge.commonContentBackground": "#306b8f",
 		"merge.commonHeaderBackground": "#306b8f",
 
+		// Minimap TODO: PARTIAL OPACITY
+		"minimapSlider.background": "#8b8bcd",
+		"minimapSlider.hoverBackground": "#eeeeee",
+		"minimapSlider.activeBackground": "#eeeeee",
+
 		// Notifications
 		"notifications.border": "#3e3e75",
 		"notifications.foreground": "#8b8bcd",
@@ -152,7 +158,7 @@
 		"peekViewTitle.background": "#1b1b33",
 		"peekViewTitleDescription.foreground": "#8b8bcd",
 		"peekViewTitleLabel.foreground": "#8b8bcd",
-		
+
 		// Scrollbar
 		"scrollbar.shadow": "#3e3e75",
 		"scrollbarSlider.activeBackground": "#eeeeee",
@@ -183,6 +189,7 @@
 		"sideBar.foreground": "#8b8bcd",
 		"sideBarSectionHeader.background": "#1b1b33",
 		"sideBarSectionHeader.foreground": "#8b8bcd",
+		"sideBarStickyScroll.border": "#8b8bcd",
 		"sideBarTitle.foreground": "#8b8bcd",
 
 		// Status Bar

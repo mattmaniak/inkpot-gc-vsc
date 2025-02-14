@@ -9,10 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
-- Custom colors for files Tree rendering.
-- Custom color for the last line number when it's set to `dimmed`.
+- Borders for Sticky Scrolls.
+- Custom color for Buttons separators.
+- Custom color for Minimap Slider
+- Custom color for last line number when it's set to `dimmed`.
 - Custom colors for Dropdowns.
-- Custom color for the Buttons separators.
+- Custom colors for files Tree rendering.
 
 ## [1.5.1] - 2025-01-30
 
