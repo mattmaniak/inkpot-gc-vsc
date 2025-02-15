@@ -118,7 +118,7 @@
 
 		// Inputs
 		"input.background": "#3e3e75",
-		"input.border": "#8b8bcd",
+		"input.border": "#8b8bcd", // TODO: TO REMOVE?
 		"input.foreground": "#8b8bcd",
 		"input.placeholderForeground": "#eeeeee",
 		"inputOption.activeBackground": "#8b8bcd",
