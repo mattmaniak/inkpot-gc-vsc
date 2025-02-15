@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Fixed
 
-- Missing transparency of overlapping colors.
+- Missing opacity of overlapping colors.
 
 ## [1.5.1] - 2025-01-30
 

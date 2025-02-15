@@ -133,12 +133,12 @@
 		"editorMarkerNavigationWarning.background": "#ce8e4e",
 
 		// Merge Conflicts
-		"merge.currentContentBackground": "#6d3030",
-		"merge.currentHeaderBackground": "#6d3030",
-		"merge.incomingContentBackground": "#306d30",
-		"merge.incomingHeaderBackground": "#306d30",
-		"merge.commonContentBackground": "#306b8f",
-		"merge.commonHeaderBackground": "#306b8f",
+		"merge.currentContentBackground": "#6d30307f",
+		"merge.currentHeaderBackground": "#6d30307f",
+		"merge.incomingContentBackground": "#306d307f",
+		"merge.incomingHeaderBackground": "#306d307f",
+		"merge.commonContentBackground": "#306b8f7f",
+		"merge.commonHeaderBackground": "#306b8f7f",
 
 		// Minimap TODO: PARTIAL OPACITY
 		"minimapSlider.background": "#8b8bcd",
