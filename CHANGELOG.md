@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Custom colors for Dropdowns.
 - Custom colors for files Tree rendering.
 
+## Changed
+
+- Color for Drag And Drop Border to a darker one.
+
+## Fixed
+
+- Missing transparency of overlapping colors.
+
 ## [1.5.1] - 2025-01-30
 
 ### Changed
