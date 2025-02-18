@@ -30,6 +30,8 @@
 		"button.separator": "#8b8bcd",
 		"textLink.activeForeground": "#8b8bcd",
 		"textLink.foreground": "#eeeeee",
+		"textPreformat.background": "#3e3e75",
+		"textPreformat.foreground": "#f0ad6d", // TODO: TO VERIFY
 
 		// Diff Editor
 		"diffEditor.border": "#3e3e75",
@@ -42,6 +44,7 @@
 
 		// Dropdowns
 		"dropdown.background": "#3e3e75",
+		"dropdown.border": "#8b8bcd",
 		"dropdown.foreground": "#eeeeee",
 		"dropdown.listBackground": "#1b1b33",
 

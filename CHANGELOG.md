@@ -11,9 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Borders for Sticky Scrolls.
 - Custom color for Buttons separators.
-- Custom color for Minimap Slider
+- Custom color for Dropdown Border.
+- Custom color for Minimap Slider.
 - Custom color for last line number when it's set to `dimmed`.
 - Custom colors for Dropdowns.
+- Custom colors for Preformatted Text.
 - Custom colors for files Tree rendering.
 
 ## Changed
