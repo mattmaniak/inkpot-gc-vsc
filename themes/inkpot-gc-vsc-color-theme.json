@@ -11,12 +11,16 @@
 
 		// All below Editor sections are sorted alphabetically.
 		// Activity Bar
+		"activityBar.activeBorder": "#eeeeee",
 		"activityBar.background": "#3e3e75",
 		"activityBar.border": "#1b1b33",
 		"activityBar.foreground": "#eeeeee",
 		"activityBar.inactiveForeground": "#8b8bcd",
 		"activityBarBadge.background": "#eeeeee",
 		"activityBarBadge.foreground": "#3e3e75",
+		"activityBarTop.activeBorder": "#eeeeee",
+		"activityBarTop.dropBorder": "#8b8bcd",
+		"activityBarTop.inactiveForeground": "#8b8bcd",
 
 		// Breadcrumbs
 		"breadcrumb.activeSelectionForeground": "#eeeeee",
@@ -197,6 +201,7 @@
 		"list.activeSelectionBackground": "#3e3e75",
 		"list.activeSelectionForeground": "#eeeeee",
 		"list.dropBackground": "#3e3e75",
+		// "list.dropBetweenBackground": "#ff0000",
 		"list.errorForeground": "#ce4e4e",
 		"list.highlightForeground": "#8b8bcd",
 		"list.hoverBackground": "#3e3e75",
@@ -205,19 +210,23 @@
 		"list.inactiveSelectionForeground": "#8b8bcd",
 		"list.focusBackground": "#3e3e75",
 		"list.focusForeground": "#8b8bcd",
+		"list.focusAndSelectionOutline": "#8b8bcd",
 		"list.focusHighlightForeground": "#8b8bcd",
 		"list.warningForeground": "#ce8e4e",
+		"listFilterWidget.background": "#3e3e75",
+		"listFilterWidget.noMatchesOutline": "#ce4e4e",
+		"listFilterWidget.shadow": "#3e3e75",
 		"tree.inactiveIndentGuidesStroke": "#3e3e75",
 		"tree.indentGuidesStroke": "#8b8bcd",
 		"tree.tableColumnsBorder": "#3e3e75",
-		"listFilterWidget.background": "#3e3e75",
-		"listFilterWidget.noMatchesOutline": "#ce4e4e",
+		"tree.tableOddRowsBackground": "#3e3e75",
 		"sideBar.background": "#1b1b33",
 		"sideBar.border": "#3e3e75",
 		"sideBar.foreground": "#8b8bcd",
 		"sideBarSectionHeader.background": "#1b1b33",
 		"sideBarSectionHeader.foreground": "#8b8bcd",
 		"sideBarStickyScroll.border": "#8b8bcd",
+		"sideBarTitle.border": "#3e3e75",
 		"sideBarTitle.foreground": "#8b8bcd",
 
 		// Status Bar

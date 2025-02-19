@@ -9,13 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Added
 
+- Border for Activity Bar Active Border.
+- Border for Side Bar Title.
 - Borders for Sticky Scrolls.
 - Custom color for Buttons separators.
 - Custom color for Dropdown Border.
 - Custom color for Minimap Slider.
+- Custom color for Odd Rows in a Table.
 - Custom color for last line number when it's set to `dimmed`.
 - Custom colors for Dropdowns.
 - Custom colors for Preformatted Text.
+- Custom colors for horizontal Activity Bar.
 - Custom colors for files Tree rendering.
 
 ## Changed
