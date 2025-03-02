@@ -4,7 +4,7 @@
   "description": "Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code.",
   "version": "1.5.1",
   "engines": {
-    "vscode": "^1.86.0"
+    "vscode": "^1.97.0"
   },
   "icon": "icon.png",
   "homepage": "https://github.com/mattmaniak/inkpot-gc-vsc",
