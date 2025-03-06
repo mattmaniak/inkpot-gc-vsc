@@ -31,16 +31,27 @@
 		"button.background": "#3e3e75",
 		"button.foreground": "#eeeeee",
 		"button.hoverBackground": "#8b8bcd",
+		"button.secondaryBackground": "#3e3e75",
+		"button.secondaryForeground": "#eeeeee",
+		"button.secondaryHoverBackground": "#8b8bcd",
 		"button.separator": "#8b8bcd",
+
 		"textLink.activeForeground": "#8b8bcd",
 		"textLink.foreground": "#eeeeee",
 		"textPreformat.background": "#3e3e75",
 		"textPreformat.foreground": "#f0ad6d", // TODO: TO VERIFY
 
+		// Command Center
+		"commandCenter.background": "#1b1b33",
+		"commandCenter.activeBackground": "#3e3e75",
+		"commandCenter.debuggingBackground": "#306b8f7f", // TODO: TO TEST
+		"commandCenter.foreground": "#8b8bcd",
+
 		// Diff Editor
 		"diffEditor.border": "#3e3e75",
 		"diffEditor.insertedTextBackground": "#306d307f",
 		"diffEditor.insertedLineBackground": "#306d3000",
+		"diffEditor.diagonalFill": "#3e3e75",
 		"diffEditor.removedTextBackground": "#6d30307f",
 		"diffEditor.removedLineBackground": "#6d30307f",
 		"diffEditorGutter.insertedLineBackground": "#306d30",
@@ -99,6 +110,7 @@
 		"editorLineNumber.activeForeground": "#eeeeee",
 		"editorLineNumber.dimmedForeground": "#1b1b33",
 		"editorLink.activeForeground": "#f0ad6d", // TODO: MOST LIKELY
+		"editorOverviewRuler.findMatchForeground": "#f0ad6d7f",
 		"editorRuler.foreground": "#8b8bcd",
 		"editorStickyScroll.border": "#8b8bcd",
 		"editorStickyScroll.shadow": "#3e3e75",
@@ -132,6 +144,12 @@
 		"inputOption.activeBorder": "#eeeeee",
 		"inputOption.activeForeground": "#eeeeee",
 		"inputOption.hoverBackground": "#8b8bcd",
+
+		// Keybinding Label
+		"keybindingLabel.background": "#3e3e75",
+		"keybindingLabel.border": "#8b8bcd",
+		"keybindingLabel.bottomBorder": "#3e3e75",
+		"keybindingLabel.foreground": "#8b8bcd",
 
 		// Marker Navigation
 		"editorMarkerNavigation.background": "#3e3e75",
@@ -179,7 +197,7 @@
 		"peekView.border": "#8b8bcd",
 		"peekViewEditor.background": "#1b1b33",
 		"peekViewEditor.matchHighlightBackground": "#3e3e75",
-		"peekViewEditor.matchHighlightBorder": "#eeeeee",
+		"peekViewEditor.matchHighlightBorder": "#f0ad6d",
 		"peekViewEditorGutter.background": "#3e3e75",
 		"peekViewResult.background": "#1b1b33",
 		"peekViewResult.fileForeground": "#8b8bcd",

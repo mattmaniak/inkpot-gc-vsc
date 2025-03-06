@@ -13,18 +13,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Border for Side Bar Title.
 - Borders for Sticky Scrolls.
 - Custom color for Buttons separators.
+- Custom color for Diff Editor Diagonal Fill.
 - Custom color for Dropdown Border.
+- Custom color for Editor Overview Ruler Find Match Foreground.
 - Custom color for Minimap Slider.
 - Custom color for Odd Rows in a Table.
 - Custom color for last line number when it's set to `dimmed`.
+- Custom colors for Command Center.
+- Custom colors for Keybinding Label.
 - Custom colors for Dropdowns.
 - Custom colors for Preformatted Text.
-- Custom colors for horizontal Activity Bar.
+- Custom colors for Secondary Buttons.
 - Custom colors for files Tree rendering.
+- Custom colors for horizontal Activity Bar.
 
 ## Changed
 
 - Color for Drag And Drop Border to a darker one.
+- Color for Peek View Editor Match Highlight Border to orange instead of white.
 
 ## Fixed
 
