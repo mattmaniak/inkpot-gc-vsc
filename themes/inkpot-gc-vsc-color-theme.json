@@ -114,6 +114,7 @@
 		"editorRuler.foreground": "#8b8bcd",
 		"editorStickyScroll.border": "#8b8bcd",
 		"editorStickyScroll.shadow": "#3e3e75",
+		"editorStickyScrollHover.background": "#3e3e75",
 		"editorWarning.foreground": "#ce8e4e",
 		"editorWhitespace.foreground": "#8b8bcd",
 		"search.resultsInfoForeground": "#8b8bcd",
@@ -192,6 +193,24 @@
 		"terminal.foreground": "#eeeeee",
 		"terminalCursor.background": "#404040",
 		"terminalCursor.foreground": "#8fff8b",
+		"terminal.findMatchBackground": "#3e3e757f",
+		"terminal.findMatchBorder": "#f0ad6d",
+		"terminal.findMatchHighlightBackground": "#3e3e757f",
+		"terminal.hoverHighlightBackground": "#8b8bcd7f",
+		"terminal.dropBackground": "#3e3e757f",
+		"terminalCommandDecoration.defaultBackground": "#8b8bcd",
+		"terminalCommandDecoration.successBackground": "#409090", // TODO: TO VERIFY COLOR MATCHING
+		"terminalCommandDecoration.errorBackground": "#ce4e4e",
+		"terminalOverviewRuler.cursorForeground": "#8fff8b", // TODO: TO TEST
+		"terminalOverviewRuler.findMatchForeground": "#f0ad6d7f",
+		"terminalStickyScroll.border": "#8b8bcd",
+		"terminalStickyScrollHover.background": "#3e3e75",
+		// "terminal.initialHintForeground": "#ff0000", // TODO: TO FIND
+		"terminalOverviewRuler.border": "#3e3e75",
+		"terminalCommandGuide.foreground": "#3e3e75", // TODO: THIS IS THE SAME COLOR BY DEFAULT
+
+		// TODO: TERMINAL SYMBOL ICON
+		// TODO: TERMINAL ANSI COLORS
 
 		// Peek View Editor
 		"peekView.border": "#8b8bcd",
@@ -271,6 +290,7 @@
 		"editorGroupHeader.tabsBackground": "#1b1b33",
 		"editorGroupHeader.tabsBorder": "#3e3e75",
 		"tab.activeBackground": "#3e3e75",
+		"tab.activeBorder":"#eeeeee",
 		"tab.activeBorderTop": "#eeeeee",
 		"tab.activeForeground": "#eeeeee",
 		"tab.dragAndDropBorder": "#8b8bcd",
