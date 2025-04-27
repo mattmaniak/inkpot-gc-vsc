@@ -5,6 +5,40 @@ All notable changes to the Inkpot GC VSC extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - UNRELEASED
+
+## Added
+
+- Border for Activity Bar Active Border.
+- Border for Side Bar Title.
+- Borders for Sticky Scrolls.
+- Custom color for (Terminal) Tab Active Border.
+- Custom color for Buttons separators.
+- Custom color for Diff Editor Diagonal Fill.
+- Custom color for Dropdown Border.
+- Custom color for Editor Overview Ruler Find Match Foreground.
+- Custom color for Editor Sticky Scroll Hover Background.
+- Custom color for Minimap Slider.
+- Custom color for Odd Rows in a Table.
+- Custom color for last line number when it's set to `dimmed`.
+- Custom colors for Command Center.
+- Custom colors for Keybinding Label.
+- Custom colors for Dropdowns.
+- Custom colors for Preformatted Text.
+- Custom colors for Secondary Buttons.
+- Custom colors for Terminal (Panel).
+- Custom colors for files Tree rendering.
+- Custom colors for horizontal Activity Bar.
+
+## Changed
+
+- Color for Drag And Drop Border to a darker one.
+- Color for Peek View Editor Match Highlight Border to orange instead of white.
+
+## Fixed
+
+- Missing opacity of overlapping colors.
+
 ## [1.5.1] - 2025-01-30
 
 ### Changed

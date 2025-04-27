@@ -16,5 +16,6 @@ Gynvael Coldwind's inkpot_gc theme for GVim/Sublime ported to the VS Code. This 
 - https://www.youtube.com/user/GynvaelColdwind
 - https://www.youtube.com/user/GynvaelEN
 
-## This website has helped a lot with development:
+## This websites have helped a lot with the development:
+- https://code.visualstudio.com/api/references/theme-color
 - https://themes.vscode.one
