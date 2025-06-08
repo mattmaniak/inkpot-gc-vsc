@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Color for Drag And Drop Border to a darker one.
 - Color for Peek View Editor Match Highlight Border to orange instead of white.
+- Required VS Code version to 1.99 (where [mattmaniak contributed to](https://code.visualstudio.com/updates/v1_99)) from 1.86.
 
 ## Fixed
 
