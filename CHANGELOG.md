@@ -5,7 +5,7 @@ All notable changes to the Inkpot GC VSC extension will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.0] - UNRELEASED
+## [2.0.0] - 2026-10-11
 
 ## Added
 
@@ -34,7 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Color for Drag And Drop Border to a darker one.
 - Color for Peek View Editor Match Highlight Border to orange instead of white.
-- Required VS Code version to 1.99 (where [mattmaniak contributed to](https://code.visualstudio.com/updates/v1_99)) from 1.86.
+- Required VS Code version from 1.86 to 1.99 (where [mattmaniak contributed to](https://code.visualstudio.com/updates/v1_99#_pull-requests)).
 
 ## Fixed
 
